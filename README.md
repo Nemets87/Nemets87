@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergey 
 - 👀 I’m interested in New Knowledge
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on team_45
+- 💞️ I’m looking to collaborate on Super_team_45
 - 📫 How to reach me bonustime161@yandex.ru
 
 <!---
