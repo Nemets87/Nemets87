@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergey Fedorov
 - 👀 I’m interested in New Knowledge
 - ✅ I’m currently learning Python
-- 💞️ I’m looking to collaborate on Super_team_45
+- 💞️ Collaborate with Super_team_45
 - 📫 How to reach me bonustime161@yandex.ru
 
 <!---
