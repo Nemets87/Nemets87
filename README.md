@@ -6,19 +6,15 @@
     <title>3_4==мы_в_Эфире</title>
   </head>
   <body>
-    <h1>The Life of</h1>
-    <h2>Coder</h2
-    <h3>
-      - 👋 Hi, I’m Sergey Fedorov
-      - 👀 I’m interested in New Knowledge
-      - ✅ I’m currently learning Python
-      - 💞️ Collaborate with Super_team_45
-      - 📫 How to reach me bonustime161@yandex.ru
-    </h3            
+    <h1> - 👋 Hi, I’m Sergey Fedorov</h1>
+    <h2> - 👀 I’m interested in New Knowledge</h2
+    <h3> - ✅ I’m currently learning Python</h3
+    <h4> - 💞️ Collaborate with Super_team_45</h4
+    <h5> - 📫 How to reach me bonustime161@yandex.ru</h5
     <p>
     <a href="https://music.yandex.ru/iframe/#playlist/ynx-praktikum/1002">Плейлист
     </a> для беспечного занятия кодингом.</p>
-    <p>Один раз послушал — семь раз покодил.</p>
+    <p>Один раз послушал — семь раз прокодил.</p>
   </body>
 </html>
 
