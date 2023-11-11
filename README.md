@@ -10,7 +10,7 @@
     <h2><p> - 👀 I’m interested in New Knowledge<p>
         <p> - ✅ I’m currently learning Python<p>
         <p> - 💞️ Collaborate with Super_team_45<p>
-        <p> <a target="_blank" href="bonustime.ru"</a> - 📫 How to reach me <p></h2
+        <p> <a target="_blank" href="https://www.bonustime.ru/"</a> - 📫 How to reach me <p></h2
     <img
       src="https://pictures.s3.yandex.net/frontend-developer/free-course/mountains.jpg"
       alt="Чёрно-белая фотография гор в тумане"
