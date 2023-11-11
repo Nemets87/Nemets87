@@ -3,12 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Добавляем ссылке путь</title>
+    <title>3_4==мы_в_Эфире</title>
   </head>
   <body>
     <h1>The Life of</h1>
-    <h2>Coder</h2>
-    <!-- Ссылку нужно добавить в абзаце ниже -->
+    <h2>Coder</h2
+    <h3>
+      - 👋 Hi, I’m Sergey Fedorov
+      - 👀 I’m interested in New Knowledge
+      - ✅ I’m currently learning Python
+      - 💞️ Collaborate with Super_team_45
+      - 📫 How to reach me bonustime161@yandex.ru
+    </h3            
     <p>
     <a href="https://music.yandex.ru/iframe/#playlist/ynx-praktikum/1002">Плейлист
     </a> для беспечного занятия кодингом.</p>
@@ -16,11 +22,6 @@
   </body>
 </html>
 
-- 👋 Hi, I’m Sergey Fedorov
-- 👀 I’m interested in New Knowledge
-- ✅ I’m currently learning Python
-- 💞️ Collaborate with Super_team_45
-- 📫 How to reach me bonustime161@yandex.ru
 
 <!---
 Nemets87/Nemets87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
