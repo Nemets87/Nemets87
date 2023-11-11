@@ -10,7 +10,12 @@
     <h2><p> - 👀 I’m interested in New Knowledge<p>
         <p> - ✅ I’m currently learning Python<p>
         <p> - 💞️ Collaborate with Super_team_45<p>
-        <p> - 📫 How to reach me bonustime161@yandex.ru<p></h2
+        <p> <a target="_blank" href="bonustime.ru"</a> - 📫 How to reach me <p></h2
+    <img
+      src="https://pictures.s3.yandex.net/frontend-developer/free-course/mountains.jpg"
+      alt="Чёрно-белая фотография гор в тумане"
+      width="210"
+    />
     <p>
     <a href="https://music.yandex.ru/iframe/#playlist/ynx-praktikum/1002">Плейлист
     </a> для беспечного занятия кодингом.</p>
