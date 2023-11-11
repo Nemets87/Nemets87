@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>3_4==мы_в_Эфире</title>
+    <title>3_4 == Мы_в_Эфире</title>
   </head>
   <body>
     <h1><p> - 👋 Hi, I’m Sergey Fedorov<<p></h1
