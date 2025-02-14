@@ -27,11 +27,17 @@ function visualize(data) {
     const nodes = [];
     const links = [];
 
-    // Создаем узлы для репозитория и файлов
-    nodes.push({ name: "Profile", x: 100, y: 50, size: 40, color: "#999", title: "Профиль пользователя" });
-    nodes.push({ name: "Repository", x: 300, y: 50, size: 30, color: "#000", title: "Репозиторий" });
+    // Создаем узлы на основе graph.json
+    nodes.push(...data.nodes.map(node => ({
+        name: node.name,
+        x: node.x,
+        y: node.y,
+        size: node.size || 20,
+        color: node.color || "#000",
+        title: node.title || node.name
+    })));
 
-    // Добавляем файлы в качестве дочерних узлов для репозитория
+    // Добавляем дополнительные узлы для файлов
     data.files.forEach((file, index) => {
         nodes.push({
             name: file,
