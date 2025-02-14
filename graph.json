@@ -15,7 +15,7 @@ function visualize(data) {
 
 async function main() {
     const username = 'Nemets87';
-    const repoName = 'Your Repo Name'; // Замените на актуальное имя вашего репозитория
+    const repoName = 'Nemets87'; // Замените на актуальное имя вашего репозитория
     
     const data = await getGitHubData(username, repoName);
     
