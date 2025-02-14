@@ -1,19 +1,27 @@
-{
-  "nodes": [
-    {"name": "Your profile", "x": 100, "y": 50, "size": 30, "color": "#999", "title": "Главная страница"},
-    {"name": "README.md", "x": 300, "y": 50, "size": 20, "color": "#000", "title": "Документация проекта"},
-    {"name": "cappy.img", "x": 500, "y": 50, "size": 25, "color": "#888", "title": "Карбочка"},
-    {"name": "index.html", "x": 700, "y": 50, "size": 22, "color": "#555", "title": "Основной HTML-файл"},
-    {"name": "script.js", "x": 900, "y": 50, "size": 21, "color": "#666", "title": "JavaScript-скрипт"},
-    {"name": "style.css", "x": 1100, "y": 50, "size": 23, "color": "#777", "title": "CSS-стили"}
-  ],
-  "links": [
-    {"source": 0, "target": 1},
-    {"source": 0, "target": 2},
-    {"source": 0, "target": 3},
-    {"source": 0, "target": 4},
-    {"source": 0, "target": 5},
-    {"source": 0, "target": 6},
-    {"source": 0, "target": 7}
-  ]
+// script.js
+
+async function getGitHubData(username, repoName) {
+    const response = await fetch(`https://api.github.com/repos/${username}/${repoName}`);
+    const data = await response.json();
+    
+    // Получаем список файлов в репозитории
+    const filesResponse = await fetch(`https://api.github.com/repos/${username}/${repoName}/contents/`);
+    const filesData = await filesResponse.json();
+
+    return { ...data, files: filesData };
 }
+
+function visualize(data) {
+    // ... (остальной код функции visualize остается без изменений)
+}
+
+async function main() {
+    const username = 'Nemets87';
+    const repoName = 'Your Repo Name'; // Замените на актуальное имя вашего репозитория
+    
+    const data = await getGitHubData(username, repoName);
+    
+    visualize(data);
+}
+
+main();
