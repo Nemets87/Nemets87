@@ -1,78 +1,76 @@
 @font-face {
-  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
-  font-family: 'Suisse';
-  font-weight: normal;
-}
-
-@font-face {
-  src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff
-);
-  font-family: 'Suisse';
-  font-weight: bold;
-}
-
-html {
-  height: 100%;
-  margin: 0;
-  -webkit-font-smoothing: antialiased;
+    font-family: 'Press Start 2P';
+    src: url(https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivNm4I81.woff2);
 }
 
 body {
-  background-color: #323131;
-  color: white;
-  position: relative;
-  max-width: 540px;
-  min-height: 100%;
-  margin: 0 auto;
-  font-family: 'Suisse';
-  box-sizing: border-box;
-  padding: 36px;
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffff;
+    background: #1a1a1a url('bg-pattern.png');
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
 }
 
-.header {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px solid #ffcc00;
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
-.logo {
-  font-weight: bold;
-  font-size: 24px;
-  margin: 0;
+h1 {
+    color: #ffcc00;
+    text-shadow: 2px 2px #ff0000;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
 }
 
 .button {
-  width: 130px;
-  height: 40px;
-  padding-top: 10px;
-  box-sizing: border-box;
-  border: 1px solid white;
-  text-align: center;
-  font-size: 14px;
-  cursor: pointer;
-  transition: opacity 0.2s;
+    background: #ff6600;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    margin: 20px 0;
+    transition: transform 0.3s;
 }
 
 .button:hover {
-  opacity: 0.5;
+    transform: scale(1.05);
+    background: #ff8800;
 }
 
 .image {
-  width: 80%;
-  display: block;
-  margin: 60px auto 50px;
+    max-width: 300px;
+    margin: 20px auto;
+    border: 4px solid #ffcc00;
 }
 
-.advice {
-  font-size: 42px;
-  font-weight: bold;
-  line-height: 1.1;
-  margin-bottom: 70px;
+.phrase {
+    font-size: 1.2em;
+    color: #00ff00;
+    text-align: center;
+    margin: 20px 0;
 }
 
-.footer {
-  font-size: 16px;
-  margin: 0;
-  position: absolute;
-  bottom: 36px;
+.info {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    margin-top: 30px;
+    border: 2px solid #ffcc00;
+}
+
+a {
+    color: #00ffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff00ff;
+    text-decoration: underline;
 }
