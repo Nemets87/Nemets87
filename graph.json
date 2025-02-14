@@ -1,6 +1,4 @@
-// script.js
-
-async function getGitHubData(username, repoName) {
+async function getGitHubData(Nemets87, Nemets87) {
     const response = await fetch(`https://api.github.com/repos/${username}/${repoName}`);
     const data = await response.json();
     
