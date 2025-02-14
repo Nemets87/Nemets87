@@ -51,7 +51,6 @@ d3.json("graph.json").then(data => {
         .attr("stroke", d => d.stroke || "#000")
         .attr("stroke-width", d => d.width || 2);
 
-    // Добавляем эффект при наведении на пути
     link.on("mouseover", function() {
         d3.select(this).attr("stroke", "#ffcc00");
     })
