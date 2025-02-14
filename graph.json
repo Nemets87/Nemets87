@@ -1,13 +1,9 @@
 {
   "nodes": [
     {"name": "Profile", "x": 100, "y": 50, "size": 40, "color": "#999", "title": "Профиль пользователя"},
-    {"name": "Repository", "x": 300, "y": 50, "size": 30, "color": "#000", "title": "Репозиторий"},
-    {"name": "README.md", "x": 500, "y": 50, "size": 15, "color": "#888", "title": "README.md"},
-    {"name": "Other Files...", "x": 700, "y": 50, "size": 15, "color": "#888", "title": "..."}
+    {"name": "README.md", "x": 300, "y": 50, "size": 30, "color": "#000", "title": "README.md"}
   ],
   "links": [
-    {"source": 0, "target": 1},
-    {"source": 1, "target": 2},
-    {"source": 1, "target": 3}
+    {"source": 0, "target": 1}
   ]
 }
