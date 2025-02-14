@@ -3,30 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3_4 == Мы_в_Эфире</title>
-    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <title>Git Repository Visualization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        svg {
+            border: 1px solid #000;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Привет, я Сергей Федоров</h1>
-        
-        <div class="content">
-            <div class="advice-block">
-                <p class="phrase"></p>
-                <img class="image" src="" alt="Случайная рекомендация">
-                <div class="button">Показать рекомендацию</div>
-            </div>
-
-            <div class="info">
-                <h2>Я заинтересован в новых знаниях</h2>
-                <p>Изучаю Python и веб-разработку</p>
-                <p>Состою в Super_team_45</p>
-                <p><a href="https://www.bonustime.ru/">Как мне можно дозвониться</a></p>
-                <p><a href="https://music.yandex.ru/iframe/#playlist/ynx-praktikum/1002">Плейлист для кодинга</a></p>
-            </div>
-        </div>
-    </div>
+    <div id="visualization"></div>
     <script src="script.js"></script>
 </body>
 </html>
