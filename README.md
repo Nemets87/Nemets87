@@ -2,7 +2,7 @@
 
   <!-- Анимированный заголовок с градиентом -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Fullstack+Jedi+Developer+%F0%9F%94%94;%E2%9C%A8+%22%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5+%21%3D+impossible%22+%E2%9C%A8;%E2%9A%AB+%22%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5+%2B%3D+%E2%88%9E+%D0%B4%D0%B7%D0%B5%D0%BD%D0%B0%22+%E2%9A%AA" alt="Анимированный заголовок">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Nemets87+%F0%9F%92%BB;%F0%9F%93%9A+Fullstack+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+macOS+enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
   </h1>
 
   <!-- Аватар с эффектом голограммы -->
@@ -28,7 +28,7 @@
       "
       onmouseover="this.style.transform='scale(1.1)'"
       onmouseout="this.style.transform='scale(1)'"
-      alt="Fedorov.sFF"
+      alt="Nemets87"
     >
     <!-- Наложение с эффектом сканирования -->
     <div style="
@@ -43,7 +43,7 @@
     "></div>
   </div>
 
-  <!-- 3D-бейджи с анимацией + дополнительные бейджи Linux и macOS -->
+  <!-- 3D-бейджи с анимацией -->
   <div align="center" style="
     perspective: 1000px;
     transform-style: preserve-3d;
@@ -53,16 +53,10 @@
       <img src="https://img.shields.io/badge/Python-Force%20Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000&color=45ffb8" alt="Python">
     </div>
     <div style="display: inline-block; transform: rotateY(25deg) translateZ(50px); margin: 0 20px;">
-      <img src="https://img.shields.io/badge/TypeScript-Dark%20Lord-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000&color=22f7f7" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Linux%20Mint-Ultimate%20Hacker-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=000&color=22f7f7" alt="Linux Mint">
     </div>
     <div style="display: inline-block; transform: rotateY(-15deg) translateZ(50px);">
-      <img src="https://img.shields.io/badge/React-Jedi%20Council-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=000&color=ff69b4" alt="React">
-    </div>
-    <div style="display: inline-block; transform: rotateY(10deg) translateZ(50px); margin: 0 20px;">
-      <img src="https://img.shields.io/badge/Linux%20Mint-%2300CC00.svg?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
-    </div>
-    <div style="display: inline-block; transform: rotateY(-10deg) translateZ(50px);">
-      <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+      <img src="https://img.shields.io/badge/macOS-Terminal%20Ninja-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000&color=ff69b4" alt="macOS">
     </div>
   </div>
 
@@ -73,22 +67,10 @@
 
 </div>
 
-<!-- Секция Техно-Магия с прогресс-баром и примером кода -->
 ## 🛠️ Техно-Магия
 
 ```diff
 + AI/ML          ▰▰▰▰▰▰▰▰▱ 85% 
 + Web3           ▰▰▰▰▰▰▱▱▱ 65%
 + Quantum        ▰▰▱▱▱▱▱▱▱ 20%
-! Новые технологии ежедневно +1% к мастерству
-
-class CyberJedi(FedorovsFF):
-    def __init__(self):
-        super().__init__()
-        self.matrix_skills = {
-            'neural_coding': True
-🔮 **Fun Facts:**  
-- ⬅️ My code has a natural left-pad bias  
-- 🧭 Geo-magic: 47°13N / 39°42E (координаты Азова)  
-- 🌐 Bilingual in Russian and Pythonic sarcasm
-со всеми улучшениями
+! Linux & macOS daily driver 💻
