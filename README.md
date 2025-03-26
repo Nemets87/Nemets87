@@ -43,7 +43,7 @@
     "></div>
   </div>
 
-  <!-- 3D-бейджи с анимацией -->
+  <!-- 3D-бейджи с анимацией + дополнительные бейджи Linux и macOS -->
   <div align="center" style="
     perspective: 1000px;
     transform-style: preserve-3d;
@@ -58,6 +58,12 @@
     <div style="display: inline-block; transform: rotateY(-15deg) translateZ(50px);">
       <img src="https://img.shields.io/badge/React-Jedi%20Council-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=000&color=ff69b4" alt="React">
     </div>
+    <div style="display: inline-block; transform: rotateY(10deg) translateZ(50px); margin: 0 20px;">
+      <img src="https://img.shields.io/badge/Linux%20Mint-%2300CC00.svg?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
+    </div>
+    <div style="display: inline-block; transform: rotateY(-10deg) translateZ(50px);">
+      <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+    </div>
   </div>
 
   <!-- Анимированный разделитель с бегущей строкой -->
@@ -67,7 +73,7 @@
 
 </div>
 
-<!-- Секция Техно-Магия с прогресс-баром и кодом -->
+<!-- Секция Техно-Магия с прогресс-баром и примером кода -->
 ## 🛠️ Техно-Магия
 
 ```diff
@@ -75,3 +81,9 @@
 + Web3           ▰▰▰▰▰▰▱▱▱ 65%
 + Quantum        ▰▰▱▱▱▱▱▱▱ 20%
 ! Новые технологии ежедневно +1% к мастерству
+
+class CyberJedi(FedorovsFF):
+    def __init__(self):
+        super().__init__()
+        self.matrix_skills = {
+            'neural_coding': True
