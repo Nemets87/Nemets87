@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Анимированный ASCII c матричным эффектом -->
+  <!-- Анимированный ASCII с матричным эффектом -->
   <a href="https://github.com/Nemets87">
     <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/matrix.gif" width="600" height="300" alt="Matrix Animation">
   </a>
@@ -17,8 +17,10 @@
   </div>
 </div>
 
-<!-- Анимированный разделитель -->
-<img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/svgs/contribution.svg" alt="Разделитель" width="100%">
+<!-- Разделитель с фото из репозитория -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" alt="Разделитель" width="100%">
+</div>
 
 ## 🛠️ Технологический Арсенал
 
