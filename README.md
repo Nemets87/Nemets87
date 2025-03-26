@@ -31,7 +31,11 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <!-- Добавленные бейджи -->
+  <img src="https://img.shields.io/badge/Linux%20Mint-%2300CC00.svg?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
+  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
 </div>
+
 
 ## 🧙♂️ Кодекс Джедая
 
