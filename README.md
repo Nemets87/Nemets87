@@ -2,7 +2,7 @@
 
   <!-- Анимированный заголовок с градиентом -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Nemets87+%F0%9F%92%BB;%F0%9F%93%9A+Fullstack+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+macOS+enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Nemets87+%F0%9F%92%BB;%F0%9F%93%9A+Fullstack+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+macOS+enthusiast+%E2%9C%A8" alt="Nemets87">
   </h1>
 
   <!-- Аватар с эффектом голограммы -->
@@ -15,16 +15,17 @@
     padding: 3px;
     position: relative;
     overflow: hidden;
-    animation: hologram 3s infinite;
+    box-shadow: 0 0 20px rgba(69, 255, 184, 0.6);
+    animation: hologram 3s infinite alternate;
   ">
     <img 
-      src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
+      src="https://your-image-url.com/avatar.jpg" 
       width="100%" 
       style="
         border-radius: 50%;
-        border: 2px solid white;
+        border: 3px solid white;
         filter: drop-shadow(0 0 15px #45ffb8);
-        transition: transform 0.5s;
+        transition: transform 0.5s ease-in-out;
       "
       onmouseover="this.style.transform='scale(1.1)'"
       onmouseout="this.style.transform='scale(1)'"
@@ -39,23 +40,19 @@
       height: 100%;
       background: linear-gradient(45deg, transparent 50%, rgba(69,255,184,0.2));
       mix-blend-mode: overlay;
-      animation: scan 2s infinite;
+      animation: scan 2s infinite alternate;
     "></div>
   </div>
 
   <!-- 3D-бейджи с анимацией -->
-  <div align="center" style="
-    perspective: 1000px;
-    transform-style: preserve-3d;
-    margin: 30px 0;
-  ">
-    <div style="display: inline-block; transform: rotateY(-25deg) translateZ(50px);">
+  <div align="center" style="perspective: 1000px; margin: 30px 0;">
+    <div style="display: inline-block; transform: rotateY(-20deg) translateZ(40px);">
       <img src="https://img.shields.io/badge/Python-Force%20Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000&color=45ffb8" alt="Python">
     </div>
-    <div style="display: inline-block; transform: rotateY(25deg) translateZ(50px); margin: 0 20px;">
+    <div style="display: inline-block; transform: rotateY(20deg) translateZ(40px); margin: 0 15px;">
       <img src="https://img.shields.io/badge/Linux%20Mint-Ultimate%20Hacker-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=000&color=22f7f7" alt="Linux Mint">
     </div>
-    <div style="display: inline-block; transform: rotateY(-15deg) translateZ(50px);">
+    <div style="display: inline-block; transform: rotateY(-15deg) translateZ(40px);">
       <img src="https://img.shields.io/badge/macOS-Terminal%20Ninja-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000&color=ff69b4" alt="macOS">
     </div>
   </div>
@@ -67,10 +64,15 @@
 
 </div>
 
-## 🛠️ Техно-Магия
+<!-- Анимации -->
+<style>
+@keyframes hologram {
+  0% { box-shadow: 0 0 20px rgba(69, 255, 184, 0.6); }
+  100% { box-shadow: 0 0 30px rgba(34, 247, 247, 0.9); }
+}
 
-```diff
-+ AI/ML          ▰▰▰▰▰▰▰▰▱ 85% 
-+ Web3           ▰▰▰▰▰▰▱▱▱ 65%
-+ Quantum        ▰▰▱▱▱▱▱▱▱ 20%
-! Linux & macOS daily driver 💻
+@keyframes scan {
+  0% { transform: translateY(-100%); opacity: 0.3; }
+  100% { transform: translateY(100%); opacity: 0; }
+}
+</style>
