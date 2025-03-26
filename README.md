@@ -87,3 +87,7 @@ class CyberJedi(FedorovsFF):
         super().__init__()
         self.matrix_skills = {
             'neural_coding': True
+🔮 **Fun Facts:**  
+- ⬅️ My code has a natural left-pad bias  
+- 🧭 Geo-magic: 47°13N / 39°42E (координаты Азова)  
+- 🌐 Bilingual in Russian and Pythonic sarcasm
