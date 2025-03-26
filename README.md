@@ -1,34 +1,52 @@
 <div align="center">
 
-<!-- ASCII Matrix Header -->
-<pre>
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                    ▓
-▓  ███╗   ██╗███████╗███╗   ███╗███████╗████████╗   ▓
-▓  ████╗  ██║██╔════╝████╗ ████║██╔════╝╚══██╔══╝   ▓
-▓  ██╔██╗ ██║█████╗  ██╔████╔██║█████╗     ██║      ▓
-▓  ██║╚██╗██║██╔══╝  ██║╚██╔╝██║██╔══╝     ██║      ▓
-▓  ██║ ╚████║███████╗██║ ╚═╝ ██║███████╗   ██║      ▓
-▓  ╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚══════╝   ╚═╝      ▓
-▓                       87                          ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-</pre>
+<!-- Аватар с анимацией при наведении -->
+<a href="https://github.com/Nemets87">
+  <img 
+    src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
+    width="200" 
+    style="border-radius: 50%; border: 5px solid #45ffb8; box-shadow: 0 0 20px rgba(69,255,184,0.5); transition: transform 0.3s;" 
+    onmouseover="this.style.transform='rotate(5deg)'" 
+    onmouseout="this.style.transform='rotate(0deg)'"
+    alt="Nemets87 Avatar"
+  >
+</a>
 
-<!-- Анимированный заголовок -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=45FFB8&width=500&lines=%F0%9F%94%A5+Code+Jedi;%F0%9F%92%BB+Fullstack+Developer;%E2%9C%A8+%22%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5+%21%3D+impossible%22;%E2%9A%AA+%22%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5+%2B%3D+%E2%88%9E+%D0%B4%D0%B7%D0%B5%D0%BD%D0%B0%22" alt="Тип-анимация">
-</h1>
+<!-- Вариант с футуристичным эффектом -->
+<img 
+  src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
+  width="250" 
+  style="
+    border: 3px solid #22f7f7;
+    border-radius: 15px;
+    filter: drop-shadow(0 0 10px #45ffb8);
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  "
+>
 
-<!-- Текстовый разделитель -->
-<div align="center">
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+<!-- Анимированная рамка -->
+<div style="
+  width: 250px;
+  height: 250px;
+  margin: 20px auto;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #45ffb8, #22f7f7);
+  padding: 5px;
+  animation: border-pulse 2s infinite;
+">
+  <img 
+    src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
+    width="100%" 
+    style="border-radius: 50%;"
+  >
 </div>
 
-</div>
+<style>
+  @keyframes border-pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.05); opacity: 0.7; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+</style>
 
-## 🛠️ Технологии
-```diff
-+ Python       ▰▰▰▰▰▰▰▰▰▰ 90% 
-+ JavaScript   ▰▰▰▰▰▰▰▰▰▱ 85% 
-+ React        ▰▰▰▰▰▰▰▱▱▱ 65%
-- PHP          ▰▰▱▱▱▱▱▱▱▱ 15%
+</div>
