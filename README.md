@@ -109,4 +109,48 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
   </div>
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+macOS+enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
+  </h1>
+  <div class="divider">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+  </div>
+
+  <!-- Аватар с эффектом голограммы -->
+  <div class="avatar">
+    <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" alt="Fedorov.sFF">
+  </div>
+
+  <!-- 3D-бейджи -->
+  <div class="badges">
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Python-Force%20Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000&color=45ffb8" alt="Python">
+    </div>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/Linux%20Mint-Ultimate%20Hacker-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=000&color=22f7f7" alt="Linux Mint">
+    </div>
+    <div class="badge">
+      <img src="https://img.shields.io/badge/macOS-Terminal%20Ninja-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000&color=ff69b4" alt="macOS">
+    </div>
+  </div>
+
+  <div class="divider">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+  </div>
+
+  <!-- Философия кода от магистра Йоды -->
+  <div class="yoda">
+    <p>
+      Сложное != impossible, простое += ∞ дзена.<br>
+      Силу кода выбирать ты должен – лишнее убрать и истину обрести, как учил я, магистр Йода.
+    </p>
+    <p>
+      May the Code be with you! 🐍⚔
+    </p>
+  </div>
+  
+  <!-- Комментарий к GitHub-репозиторию -->
+  <p style="font-size: 1em; margin-top: 40px;">
+    Linux & macOS daily driver 💻 – если соединить код с лучшим, весь потенциал твой раскрывается. Подробнее на <a href="https://github.com/Nemets87/Nemets87" style="color: #22f7f7; text-decoration: none;">GitHub</a>
+  </p>
+</body>
+</html>
