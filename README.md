@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/Python-Force%20Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000&color=45ffb8" alt="Python">
     </div>
     <div style="display: inline-block; transform: rotateY(25deg) translateZ(50px); margin: 0 20px;">
-      <img src="https://img.shields.io/badge/Linux%20Mint-Ultimate%20Hacker-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=000&color=22f7f7" alt="Linux Mint">
+      <img src="https://img.shields.io/badge/Linux%20Mint-Ultimate%20Lover-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=000&color=22f7f7" alt="Linux Mint">
     </div>
     <div style="display: inline-block; transform: rotateY(-15deg) translateZ(50px);">
       <img src="https://img.shields.io/badge/macOS-Terminal%20Ninja-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000&color=ff69b4" alt="macOS">
