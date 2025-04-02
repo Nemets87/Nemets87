@@ -66,7 +66,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
   </div>
 
-
+**Ваш код теперь чист, как светлая сторона Силы!**  
+![](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 
 
