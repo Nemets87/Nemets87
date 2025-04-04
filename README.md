@@ -1,85 +1,114 @@
-<div align="center">
+<div align="center" style="font-family: 'MedievalSharp', cursive; letter-spacing: 1px;">
 
-  <!-- Анимированный заголовок с градиентом -->
+  <!-- Анимированный заголовок в средневековом стиле -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+    <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=600&size=32&duration=4000&pause=1000&color=FFD700&background=FFFFFF00&width=600&lines=%E2%9A%9E%EF%B8%8F+Fedorov.sFF+%F0%9F%97%9D;%F0%9F%96%95+Code+Alchemist+%E2%9C%94%EF%B8%8F;%F0%9F%8F%B0+Linux+%26+MacOS+Paladin+%F0%9F%8F%B0" alt="Средневековый заголовок">
+    <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=20&pause=1000&color=FFD700&width=600&lines=%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2%E2%96%B2" alt="Разделитель">
   </h1>
 
-  <!-- Аватар с эффектом голограммы -->
+  <!-- Аватар в стиле старинного медальона -->
   <div style="
-    width: 250px;
-    height: 250px;
+    width: 280px;
+    height: 280px;
     margin: 20px auto;
     border-radius: 50%;
-    background: linear-gradient(45deg, #45ffb8, #22f7f7, #ff69b4);
-    padding: 3px;
+    background: linear-gradient(45deg, #FFD700, #B8860B, #8B4513);
+    padding: 4px;
     position: relative;
     overflow: hidden;
-    animation: hologram 3s infinite;
+    animation: medieval-glow 4s infinite;
+    box-shadow: 0 0 30px rgba(255,215,0,0.3);
+    border: 3px solid #8B4513;
   ">
     <img 
       src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
-      width="100%" 
       style="
         border-radius: 50%;
-        border: 2px solid white;
-        filter: drop-shadow(0 0 15px #45ffb8);
-        transition: transform 0.5s;
+        border: 2px solid #FFD700;
+        filter: sepia(0.3) contrast(1.1);
+        transition: all 0.5s ease;
       "
-      onmouseover="this.style.transform='scale(1.1)'"
-      onmouseout="this.style.transform='scale(1)'"
-      alt="Nemets87"
+      onmouseover="this.style.transform='rotate(5deg) scale(1.05)';this.style.filter='sepia(0.5) contrast(1.2)'"
+      onmouseout="this.style.transform='rotate(0deg) scale(1)';this.style.filter='sepia(0.3) contrast(1.1)'"
+      alt="Рыцарь кода"
     >
-    <!-- Наложение с эффектом сканирования -->
+    <!-- Эффект старинного пергамента -->
     <div style="
       position: absolute;
       top: 0;
       left: 0;
       width: 100%;
       height: 100%;
-      background: linear-gradient(45deg, transparent 50%, rgba(69,255,184,0.2));
-      mix-blend-mode: overlay;
-      animation: scan 2s infinite;
+      background: repeating-linear-gradient(
+        0deg,
+        rgba(139,69,19,0.1) 0px,
+        rgba(139,69,19,0.1) 2px,
+        transparent 2px,
+        transparent 4px
+      );
+      mix-blend-mode: multiply;
     "></div>
   </div>
 
-  <!-- 3D-бейджи с анимацией -->
+  <!-- Бейджи в стиле средневековых гербов -->
   <div align="center" style="
-    perspective: 1000px;
-    transform-style: preserve-3d;
     margin: 30px 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    max-width: 800px;
   ">
-    <div style="display: inline-block; transform: rotateY(-25deg) translateZ(50px);">
-      <img src="https://img.shields.io/badge/Python-Force%20_Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=000&color=45ffb8" alt="Python">
+    <div style="
+      background: linear-gradient(45deg, #8B4513, #A0522D);
+      padding: 12px;
+      border-radius: 15px;
+      border: 2px solid #FFD700;
+      box-shadow: 0 5px 15px rgba(139,69,19,0.3);
+      transition: transform 0.3s ease;
+      " onmouseover="this.style.transform='translateY(-5px)'" 
+         onmouseout="this.style.transform='translateY(0)'">
+      <img src="https://img.shields.io/badge/Python-Dragon_Slayer-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2F4F4F&color=FFD700" alt="Python">
     </div>
-    <div style="display: inline-block; transform: rotateY(25deg) translateZ(50px); margin: 0 20px;">
-      <img src="https://img.shields.io/badge/Linux%20Mint-Ultimate%20_Lover-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=000&color=22f7f7" alt="Linux Mint">
+    
+    <div style="
+      background: linear-gradient(45deg, #2F4F4F, #708090);
+      padding: 12px;
+      border-radius: 15px;
+      border: 2px solid #FFD700;
+      box-shadow: 0 5px 15px rgba(47,79,79,0.3);
+      transition: transform 0.3s ease;
+      " onmouseover="this.style.transform='translateY(-5px)'" 
+         onmouseout="this.style.transform='translateY(0)'">
+      <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
     </div>
-    <div style="display: inline-block; transform: rotateY(-15deg) translateZ(50px);">
-      <img src="https://img.shields.io/badge/macOS-Terminal%20_Ninja-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000&color=ff69b4" alt="macOS">
+    
+    <div style="
+      background: linear-gradient(45deg, #483D8B, #6A5ACD);
+      padding: 12px;
+      border-radius: 15px;
+      border: 2px solid #FFD700;
+      box-shadow: 0 5px 15px rgba(72,61,139,0.3);
+      transition: transform 0.3s ease;
+      " onmouseover="this.style.transform='translateY(-5px)'" 
+         onmouseout="this.style.transform='translateY(0)'">
+      <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
     </div>
   </div>
 
-  <!-- Анимированный разделитель с бегущей строкой -->
+  <!-- Анимированный разделитель со свитком -->
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+    <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=20&pause=1000&color=FFD700&width=600&lines=%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC%E2%96%AC" alt="Свиток">
   </div>
 
-**Видите Капибару == ваша Душа на светлой стороне Силы!**  
-![](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
-
-
+**Капибара — хранитель древних знаний**  
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" style="border-radius:15px;border:2px solid #FFD700;box-shadow:0 0 20px rgba(255,215,0,0.3);">
 
 </div>
 
-
-
-## 🔄_Капибара_Магия
+## 🏰_Заклинания_Кода
 
 ```diff
-+ AI/ML          ▰▰▰▰▰▰▰▰▱ 85% 
-+ Web3           ▰▰▰▰▰▰▱▱▱ 65%
-+ Quantum        ▰▰▱▱▱▱▱▱▱ 20%
-! Linux & macOS daily driver 💻
++ AI/ML          ⚔️▰▰▰▰▰▰▰▰▱ 85% 
++ Web3           🛡️▰▰▰▰▰▰▱▱▱ 65%
++ Quantum        🧙▰▰▱▱▱▱▱▱▱ 20%
+! Linux & macOS daily driver �🏰
