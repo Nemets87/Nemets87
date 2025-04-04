@@ -20,14 +20,14 @@
 
 </div>
 
-<!-- Статистика -->
+<!-- Статистика активности -->
 <table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=0d1117&title_color=45ffb8&icon_color=22f7f7" alt="Статистика">
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=0d1117&ring=45ffb8&fire=22f7f7" alt="Стрик">
+      <img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=0d1117&ring=45ffb8&fire=22f7f7&currStreakLabel=22f7f7" alt="Стрик" width="400">
     </td>
   </tr>
 </table>
