@@ -13,16 +13,16 @@
          style="width:250px; height:250px; border-radius:50%; border:3px solid #45ffb8; box-shadow:0 0 30px #22f7f7; object-fit:cover;">
   </div>
 
-  <!-- Бейджи -->
-  <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin:25px 0;">
-    <a href="https://python.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Python-Jedi_Master-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python">
+  <!-- Бейджи (расположены вертикально) -->
+  <div style="display:flex; flex-direction:column; gap:10px; justify-content:center; margin:25px 0;">
+    <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Сайт">
     </a>
-    <a href="https://linux.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Linux-Force_User-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" alt="Linux">
+    <a href="mailto:bonustime161@yandex.ru" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта">
     </a>
-    <a href="https://apple.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/macOS-Terminal_Ninja-000?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" alt="macOS">
+    <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📡_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Телеграм">
     </a>
   </div>
 
@@ -49,24 +49,24 @@
     </pre>
   </div>
 
-  <!-- Капибара -->
+  <!-- Капибара (изображение сохраняет пропорции) -->
   <div style="margin:40px 0; width:100%; text-align:center;">
     <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" 
          alt="Капибара" 
-         style="max-width:300px; width:100%; border-radius:15px; border:2px solid #22f7f7;">
+         style="max-width:400px; width:100%; height:auto; border-radius:15px; border:2px solid #22f7f7;">
     <h3 style="margin:15px 0; color:#45ffb8;">🦸♂️ Капибара-Джедай</h3>
   </div>
 
   <!-- Контакты -->
-  <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin:30px 0;">
-    <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📧_Email-45ffb8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <div style="display:flex; flex-direction:column; gap:10px; justify-content:center; margin:30px 0;">
+    <a href="mailto:bonustime161@yandex.ru" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📧_Email-45ffb8?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта">
     </a>
-    <a href="https://t.me/your_telegram" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📡_Telegram-22f7f7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/📡_Telegram-22f7f7?style=for-the-badge&logo=telegram&logoColor=white" alt="Телеграм">
     </a>
-    <a href="https://github.com/Nemets87" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/💻_Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+    <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Сайт">
     </a>
   </div>
 
