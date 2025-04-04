@@ -57,17 +57,5 @@
     <h3 style="margin:15px 0; color:#45ffb8;">🦸♂️ Капибара-Джедай</h3>
   </div>
 
-  <!-- Контакты -->
-  <div style="display:flex; flex-direction:column; gap:10px; justify-content:center; margin:30px 0;">
-    <a href="mailto:bonustime161@yandex.ru" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📧_Email-45ffb8?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта">
-    </a>
-    <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/📡_Telegram-22f7f7?style=for-the-badge&logo=telegram&logoColor=white" alt="Телеграм">
-    </a>
-    <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Сайт">
-    </a>
-  </div>
 
 </div>
