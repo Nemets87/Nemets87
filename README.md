@@ -14,18 +14,25 @@
          style="width: 100%; height: 100%; border-radius: 50%; border: 4px solid #45ffb8; box-shadow: 0 0 40px #22f7f7; object-fit: cover;">
   </div>
 
-  <!-- Бейджи -->
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 30px 0;">
-    <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
-      <img loading="lazy" src="https://img.shields.io/badge/🌐_WEBSITE-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Website">
-    </a>
-    <a href="https://python.org" target="_blank" rel="noopener noreferrer">
-      <img loading="lazy" src="https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    </a>
-    <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
-      <img loading="lazy" src="https://img.shields.io/badge/📡_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
+ <div align="center">
+
+<!-- Бейджи в едином контейнере -->
+<div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center; margin:20px 0;">
+
+  <div style="background:#8B4513;padding:8px;border-radius:12px;border:2px solid #FFD700;">
+    <img src="https://img.shields.io/badge/Python-Dragon_Slayer-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2F4F4F&color=FFD700" alt="Python">
   </div>
+
+  <div style="background:#2F4F4F;padding:8px;border-radius:12px;border:2px solid #FFD700;">
+    <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
+  </div>
+
+  <div style="background:#483D8B;padding:8px;border-radius:12px;border:2px solid #FFD700;">
+    <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
+  </div>
+
+</div>
+</div>
 
   <!-- Статистика -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%; margin: 30px 0;">
