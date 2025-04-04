@@ -1,10 +1,10 @@
 <div align="center" style="max-width:100%; padding:0 15px; text-align:center;">
 
-  <!-- Анимированный заголовок -->
-  <div style="width:100%; margin:20px 0; overflow:hidden;">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=4000&pause=1000&color=45FFB8&width=100%25&lines=%F0%9F%94%A5+Greetings%2C+Code+Jedi!;%F0%9F%92%BB+Python+Architect;%F0%9F%93%82+Linux+Artisan;%E2%9C%A8+May+The+Code+Be+With+You" 
-         alt="Анимированный заголовок" style="max-width:100%;">
-  </div>
+  <!-- Анимированный заголовок с градиентом -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+  </h1>
 
   <!-- Аватар -->
   <div style="margin:25px 0;">
