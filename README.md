@@ -39,32 +39,25 @@
     max-width: 800px;
   ">
 
-    <div style="
-      background: #8B4513;
-      padding: 8px;
-      border-radius: 12px;
-      border: 2px solid #FFD700;
-    ">
-      <img src="https://img.shields.io/badge/Python-Dragon_Slayer-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2F4F4F&color=FFD700" alt="Python">
-    </div>
+    <div align="center">
 
-    <div style="
-      background: #2F4F4F;
-      padding: 8px;
-      border-radius: 12px;
-      border: 2px solid #FFD700;
-    ">
-      <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
-    </div>
+<!-- Бейджи в едином контейнере -->
+<div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center; margin:20px 0;">
 
-    <div style="
-      background: #483D8B;
-      padding: 8px;
-      border-radius: 12px;
-      border: 2px solid #FFD700;
-    ">
-      <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
-    </div>
+  <div style="background:#8B4513;padding:8px;border-radius:12px;border:2px solid #FFD700;">
+    <img src="https://img.shields.io/badge/Python-Dragon_Slayer-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2F4F4F&color=FFD700" alt="Python">
+  </div>
+
+  <div style="background:#2F4F4F;padding:8px;border-radius:12px;border:2px solid #FFD700;">
+    <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
+  </div>
+
+  <div style="background:#483D8B;padding:8px;border-radius:12px;border:2px solid #FFD700;">
+    <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
+  </div>
+
+</div>
+</div>
 
   </div>
 
