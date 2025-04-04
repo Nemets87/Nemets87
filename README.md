@@ -14,17 +14,18 @@
          style="width: 100%; height: 100%; border-radius: 50%; border: 4px solid #45ffb8; box-shadow: 0 0 40px #22f7f7; object-fit: cover;">
   </div>
 
- <div align="center">
-
-<!-- Бейджи с градиентным фоном -->
-<div align="center" style="margin:25px;display:flex;gap:15px;flex-wrap:wrap;justify-content:center">
-
-[![Python Sorcerer](https://img.shields.io/badge/Python-3A%20Years-3776AB?style=for-the-badge&logo=python&logoColor=white&color=45ffb8)](https://python.org)
-[![Linux Wizard](https://img.shields.io/badge/Linux-Arch%20Master-87CF3E?style=for-the-badge&logo=linux&logoColor=white&color=22f7f7)](https://archlinux.org)
-[![MacOS Ninja](https://img.shields.io/badge/macOS-Terminal%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white&color=ff69b4)](https://apple.com)
-
-</div>
-</div>
+  <!-- Бейджи -->
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 30px 0;">
+    <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
+      <img loading="lazy" src="https://img.shields.io/badge/🌐_WEBSITE-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Website">
+    </a>
+    <a href="https://python.org" target="_blank" rel="noopener noreferrer">
+      <img loading="lazy" src="https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </a>
+    <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
+      <img loading="lazy" src="https://img.shields.io/badge/📡_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+  </div>
 
   <!-- Статистика -->
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%; margin: 30px 0;">
