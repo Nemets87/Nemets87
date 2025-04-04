@@ -16,20 +16,12 @@
 
  <div align="center">
 
-<!-- Бейджи в едином контейнере -->
-<div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center; margin:20px 0;">
+<!-- Бейджи с градиентным фоном -->
+<div align="center" style="margin:25px;display:flex;gap:15px;flex-wrap:wrap;justify-content:center">
 
-  <div style="background:#8B4513;padding:8px;border-radius:12px;border:2px solid #FFD700;">
-    <img src="https://img.shields.io/badge/Python-Dragon_Slayer-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2F4F4F&color=FFD700" alt="Python">
-  </div>
-
-  <div style="background:#2F4F4F;padding:8px;border-radius:12px;border:2px solid #FFD700;">
-    <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
-  </div>
-
-  <div style="background:#483D8B;padding:8px;border-radius:12px;border:2px solid #FFD700;">
-    <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
-  </div>
+[![Python Sorcerer](https://img.shields.io/badge/Python-3A%20Years-3776AB?style=for-the-badge&logo=python&logoColor=white&color=45ffb8)](https://python.org)
+[![Linux Wizard](https://img.shields.io/badge/Linux-Arch%20Master-87CF3E?style=for-the-badge&logo=linux&logoColor=white&color=22f7f7)](https://archlinux.org)
+[![MacOS Ninja](https://img.shields.io/badge/macOS-Terminal%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white&color=ff69b4)](https://apple.com)
 
 </div>
 </div>
