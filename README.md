@@ -69,6 +69,12 @@
 + Web3           ▰▰▰▱▱▱▱▱▱ 30%
 ! Life Balance   ▰▰▰▰▰▰▰▰▰▰ 100%
 
+<!-- Капибара -->
+<div align="center" style="margin:40px 0">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" style="border-radius:15px;border:2px solid #22f7f7">
+  <h3>🦸♂️ Капибара-Джедай</h3>
+</div>
+
 <!-- Контакты -->
 <div align="center" style="margin-top:30px">
   <a href="mailto:your.email@example.com">
@@ -82,4 +88,5 @@
   </a>
 </div>
 
+</div>
 </div>
