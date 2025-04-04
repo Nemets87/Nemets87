@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000" alt="Сайт">
     </a>
     <a href="mailto:bonustime161@yandex.ru" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/✉️_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта">
+      <img src="https://img.shields.io/badge/✉️_bonustime161@yandex.ru-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта">
     </a>
     <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/📡_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Телеграм">
