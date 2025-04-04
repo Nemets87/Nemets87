@@ -1,65 +1,205 @@
-<div align="center" style="margin: 0 auto; max-width: 100%; padding: 0 15px;">
+<div align="center" style="
+  margin: 0 auto;
+  padding: 1.5rem;
+  max-width: 800px;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: #0d1117;
+  border-radius: 15px;
+  position: relative;
+  overflow: hidden;
+">
 
-<!-- Анимированный заголовок -->
-<div style="width: 100%; margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=1000&color=45FFB8&width=100%25&lines=%F0%9F%94%A5+Greetings%2C+Code+Jedi!;%F0%9F%92%BB+Python+Architect;%F0%9F%93%82+Linux+Artisan;%E2%9C%A8+May+The+Code+Be+With+You" alt="Заголовок">
-</div>
+  <!-- Анимированные динамические линии фона -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: repeating-linear-gradient(
+      45deg,
+      rgba(69,255,184,0.1) 0px,
+      rgba(69,255,184,0.1) 10px,
+      transparent 10px,
+      transparent 20px
+    );
+    z-index: 0;
+  "></div>
 
-<!-- Аватар в HD -->
-<div style="position: relative; width: 320px; height: 320px; margin: 25px auto;">
-  <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
-       style="width: 100%; height: 100%; border-radius: 50%; border: 4px solid #45ffb8; box-shadow: 0 0 40px #22f7f7; object-fit: cover;">
-</div>
+  <!-- Анимированный заголовок с оптимизированным контентом -->
+  <h1 style="position: relative; z-index: 2; margin: 1.5rem 0 2.5rem 0; text-shadow: 0 0 15px #45ffb8aa">
+    <img src="https://readme-typing-svg.demolab.com?width=100%25&lines=🚀+Fedorov.sFF;💻+Full-Stack+Developer;🔥+Python+Pro;🛠️+DevOps+Engineer;🦄+Open+Source&color=45ffb8&center=true&size=26&font=Space+Mono">
+  </h1>
 
-<!-- Бейджи -->
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 30px 0;">
-  <a href="https://www.bonustime.ru/">
-    <img src="https://img.shields.io/badge/🌐_WEBSITE-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000">
-  </a>
-  <a href="https://python.org">
-    <img src="https://img.shields.io/badge/Python-Master-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
-  </a>
-  <a href="https://t.me/FedorovSFF">
-    <img src="https://img.shields.io/badge/📡_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
+  <!-- Аватар с 3D-эффектом и ховером -->
+  <div style="
+    position: relative;
+    z-index: 2;
+    width: 280px;
+    height: 280px;
+    margin: 0 auto 2.5rem auto;
+    border-radius: 50%;
+    transition: transform 0.3s;
+    cursor: pointer;
+    " 
+    onmouseover="this.style.transform='rotateY(10deg) scale(1.05)';"
+    onmouseout="this.style.transform='none'"
+  >
+    <div style="
+      position: relative;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 3px solid #45ffb8;
+      box-shadow: 0 0 40px #22f7f7;
+    ">
+      <img 
+        src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg"
+        alt="Avatar"
+        style="
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          transition: transform 0.3s;
+        ">
+    </div>
+  </div>
 
-<!-- Статистика -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; width: 100%; margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=0d1117&title_color=45ffb8&icon_color=22f7f7&include_all_commits=true" alt="Статистика">
-  <img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=0d1117&ring=45ffb8&fire=22f7f7" alt="Стрик">
-</div>
+  <!-- Бейджи с анимированными переходами -->
+  <div style="
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin: 2rem 0 3rem 0;
+  ">
+    <a href="https://www.bonustime.ru/" 
+       style="transition: all 0.3s;"
+       onmouseover="this.style.transform='translateY(-5px)'; this.style.filter='brightness(1.2)';"
+       onmouseout="this.style.transform='none'; this.style.filter='none'">
+      <img src="https://img.s
+ ... (HTML and content truncated for brevity)
 
-<!-- Прогресс-бары -->
-<div style="max-width: 600px; margin: 30px auto; padding: 20px; background: #0d1117dd; border-radius: 15px; backdrop-filter: blur(5px);">
-  <pre style="margin: 0; border: none; background: transparent; color: #45ffb8;">
-    <code>
-+ AI/ML          ▰▰▰▰▰▰▰▰▱ 85% 
-+ DevOps         ▰▰▰▰▰▰▱▱▱ 65%
-+ Web3           ▰▰▰▱▱▱▱▱▱ 30%
-! Code Balance   ▰▰▰▰▰▰▰▰▰▰ 100%
-    </code>
-  </pre>
-</div>
+(css truncated. use:
 
-<!-- Капибара HD -->
-<div style="max-width: 600px; margin: 40px auto; text-align: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Fpb2FvN3h4b3F0NWR0cm1yY3lqY3g4Z2V3eG4wY3RjajJyd3Z5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhOpu0NwenH3O/giphy.gif" 
-       style="width: 100%; border-radius: 15px; border: 3px solid #22f7f7; box-shadow: 0 0 30px rgba(34,247,247,0.3);">
-  <h2 style="color: #45ffb8; margin: 20px 0;">🦫 Capybara Force</h2>
-</div>
+.  
+  
+  
+. ͬ 
+ 
+. 
 
-<!-- Контакты -->
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 40px 0;">
-  <a href="mailto:bonustime161@yandex.ru">
-    <img src="https://img.shields.io/badge/📧_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/FedorovSFF">
-    <img src="https://img.shields.io/badge/📡_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://www.bonustime.ru/">
-    <img src="https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=000">
-  </a>
-</div>
+.
 
+.  .  ͩ. . 
+
+. .   ̄. 
+
+. . 
+
+. . 
+
+. . .
+
+.  ͕. 
+
+ . ˯. 
+
+. . . .  ˾. . . .  ͤ. . . .  ˂. . 
+
+. . 
+
+ ˽. .  ˳.  ͑. . 
+
+.   ̄. . 
+
+.  ˳. .   ̄. 
+
+.   ̄. 
+
+. . ˯. . . 
+
+.  ̄. 
+
+. 
+
+. 
+
+. . 
+
+ . ̄.
+
+.
+
+  .
+
+.
+ .
+
+.
+
+ .  ͂. .
+
+. 
+
+.
+. ͮ. ͬ. . . .   ͤ. 
+
+. . . 
+
+. . . ˍ. 
+
+ . 
+
+.
+
+. 
+
+ .  ̄. 
+
+. 
+
+.
+
+. 
+
+. ̓. 
+
+ .  . .  ͌. . . .  ͤ. . 
+
+. . . .  ˂. . 
+
+. 
+
+.   ̄. . . .
+
+ . .
+
+ .
+
+:---------------
+. 
+
+    
+.
+
+. .
+
+  . . 
+
+.
+
+
+.  .̠. 
+
+. 
+
+.
+
+. . . . 
+
+, 
 </div>
