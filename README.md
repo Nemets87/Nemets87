@@ -1,4 +1,4 @@
-<div align="center" style="margin: 0 auto; max-width: 100%; padding: 0 15px; font-family: 'Courier New', monospace;">
+<div align="center" style="margin: 0 auto; max-width: 100%; padding: 0 15px;">
 
 <!-- Анимированный заголовок -->
 <div style="width: 100%; overflow: hidden;">
@@ -11,14 +11,14 @@
 
 <!-- Бейджи -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 25px 0;">
-  <a href="https://www.bonustime.ru/">
-    <img src="https://img.shields.io/badge/WEBSITE-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117">
-  </a>
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-Jedi_Master-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117">
   </a>
   <a href="https://linux.org">
     <img src="https://img.shields.io/badge/Linux-Force_User-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117">
+  </a>
+  <a href="https://apple.com">
+    <img src="https://img.shields.io/badge/macOS-Terminal_Ninja-000?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117">
   </a>
 </div>
 
@@ -59,21 +59,21 @@
 
 <!-- Капибара -->
 <div style="margin: 40px 0; width: 100%; text-align: center;">
-  <img src="https://i.gifer.com/origin/2d/2d63f8a5b6d67b7b6c7870c00a1f2d4a_w200.gif" 
-       style="max-width: 400px; width: 100%; border-radius: 15px; border: 2px solid #22f7f7;">
-  <h3 style="margin: 15px 0; color: #45ffb8;">🦫 Капибара-Джедай</h3>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" 
+       style="max-width: 300px; width: 100%; border-radius: 15px; border: 2px solid #22f7f7;">
+  <h3 style="margin: 15px 0; color: #45ffb8;">🦸♂️ Капибара-Джедай</h3>
 </div>
 
 <!-- Контакты -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 30px 0;">
-  <a href="mailto:bonustime161@yandex.ru">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/📧_Email-45ffb8?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://t.me/FedorovSFF">
+  <a href="https://t.me/your_telegram">
     <img src="https://img.shields.io/badge/📡_Telegram-22f7f7?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.bonustime.ru/">
-    <img src="https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black">
+  <a href="https://github.com/Nemets87">
+    <img src="https://img.shields.io/badge/💻_Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
