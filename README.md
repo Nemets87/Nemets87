@@ -68,31 +68,37 @@
       " onmouseover="this.style.transform='translateY(-5px)'" 
          onmouseout="this.style.transform='translateY(0)'">
       <img src="https://img.shields.io/badge/Python-Dragon_Slayer-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2F4F4F&color=FFD700" alt="Python">
-    </div>
-    
-    <div style="
-      background: linear-gradient(45deg, #2F4F4F, #708090);
-      padding: 12px;
-      border-radius: 15px;
-      border: 2px solid #FFD700;
-      box-shadow: 0 5px 15px rgba(47,79,79,0.3);
-      transition: transform 0.3s ease;
-      " onmouseover="this.style.transform='translateY(-5px)'" 
-         onmouseout="this.style.transform='translateY(0)'">
-      <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
-    </div>
-    
-    <div style="
-      background: linear-gradient(45deg, #483D8B, #6A5ACD);
-      padding: 12px;
-      border-radius: 15px;
-      border: 2px solid #FFD700;
-      box-shadow: 0 5px 15px rgba(72,61,139,0.3);
-      transition: transform 0.3s ease;
-      " onmouseover="this.style.transform='translateY(-5px)'" 
-         onmouseout="this.style.transform='translateY(0)'">
-      <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
-    </div>
+   <div align="center">
+
+<!-- Бейджи в стиле средневековых гербов -->
+<div style="
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 800px;
+  margin: 20px auto;
+">
+
+  <div style="
+    background: #2F4F4F;
+    padding: 8px;
+    border-radius: 12px;
+    border: 2px solid #FFD700;
+  ">
+    <img src="https://img.shields.io/badge/Linux-Castle_Guard-87CF3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="Linux">
+  </div>
+
+  <div style="
+    background: #483D8B;
+    padding: 8px;
+    border-radius: 12px;
+    border: 2px solid #FFD700;
+  ">
+    <img src="https://img.shields.io/badge/macOS-Enchanted_Tome-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=2F4F4F&color=FFD700" alt="macOS">
+  </div>
+
+</div>
   </div>
 
   <!-- Анимированный разделитель со свитком -->
