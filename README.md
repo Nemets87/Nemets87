@@ -7,10 +7,12 @@
   </h1>
 
   <!-- Аватар -->
-  <div style="margin:25px 0;">
+ <!-- Капибара (оптимизированное изображение) -->
+  <div style="margin:40px 0; width:100%; text-align:center;">
     <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
-         alt="Аватар" 
-         style="width:250px; height:250px; border-radius:50%; border:3px solid #45ffb8; box-shadow:0 0 30px #22f7f7; object-fit:cover;">
+         alt="Капибара" 
+         style="max-width:100%; width:auto; height:auto; max-height:400px; border-radius:15px; border:2px solid #22f7f7; object-fit:contain;">
+    <h3 style="margin:15px 0; color:#45ffb8;">🦸♂️ Капибара-Джедай</h3>
   </div>
 
   <!-- Бейджи (расположены вертикально) -->
@@ -49,12 +51,6 @@
     </pre>
   </div>
 
-  <!-- Капибара (оптимизированное изображение) -->
-  <div style="margin:40px 0; width:100%; text-align:center;">
-    <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
-         alt="Капибара" 
-         style="max-width:100%; width:auto; height:auto; max-height:400px; border-radius:15px; border:2px solid #22f7f7; object-fit:contain;">
-    <h3 style="margin:15px 0; color:#45ffb8;">🦸♂️ Капибара-Джедай</h3>
-  </div>
+ 
 
 </div>
