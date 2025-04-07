@@ -12,21 +12,18 @@
          alt="Капибара" 
          style="max-width:100%; width:auto; height:auto; max-height:400px; border-radius:15px; border:2px solid #22f7f7; object-fit:contain; box-shadow:0 5px 15px rgba(34,247,247,0.3);">
     
-    <!-- Стилизованная подпись -->
-    <h3 style="margin:15px 0; color:#45ffb8; font-size:1.5em; text-shadow:1px 1px 2px #0d1117;">
-      ✧･ﾟ: *✧･ﾟ:* 𝕂𝖆𝖕𝖎𝖇𝖆𝖗𝖆-𝕯𝖏𝖊𝖉𝖎 *:･ﾟ✧*:･ﾟ✧
-    </h3>
-    
-    <!-- Свиток из символов -->
-    <div style="background:#f5e8c7; padding:15px; max-width:80%; margin:0 auto; border-radius:5px 20px; border:1px solid #d4af37; position:relative;">
-      <p style="font-family:monospace; color:#5e2c04; font-style:italic; margin:0;">
-        ⁜ "Мудрость капибары - в спокойствии вод,<br>
-        ⁜ Код пишет легко, без лишних хлопот."
-      </p>
-      <!-- Уголки свитка -->
-      <div style="position:absolute; width:15px; height:15px; border:1px solid #d4af37; background:#f5e8c7; transform:rotate(45deg); top:-8px; left:20px;"></div>
-      <div style="position:absolute; width:15px; height:15px; border:1px solid #d4af37; background:#f5e8c7; transform:rotate(45deg); bottom:-8px; right:20px;"></div>
-    </div>
+   <div align="center">
+
+![Капибара](https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg "Капибара-Джедай")
+
+### ✧･ﾟ: *✧･ﾟ:* 𝕂𝖆𝖕𝖎𝖇𝖆𝖗𝖆-𝕯𝖏𝖊𝖉𝖎 *:･ﾟ✧*:･ﾟ✧
+
+<div style="background:#f5e8c7; padding:15px; max-width:80%; margin:0 auto; border-radius:5px 20px; border:1px solid #d4af37; font-family:monospace; color:#5e2c04; font-style:italic;">
+⁜ "Мудрость капибары - в спокойствии вод,  
+⁜ Код пишет легко, без лишних хлопот."
+</div>
+
+</div>
   </div>
 
   <!-- Бейджи в средневековом стиле -->
