@@ -3,7 +3,9 @@
   <!-- Анимированный заголовок -->
   <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+    
+    <!-- Молния на всю ширину -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=100%25&lines=⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡" alt="Молния-разделитель">
   </h1>
 
   <!-- Капибара-Джедай -->
@@ -11,17 +13,20 @@
     <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
          alt="Капибара-Джедай" 
          style="max-width:100%; width:auto; height:auto; max-height:400px; border-radius:15px; border:2px solid #22f7f7; object-fit:contain; box-shadow:0 5px 15px rgba(34,247,247,0.3);">
-    
-    ### ✧･ﾟ: *✧･ﾟ:* 𝕂𝖆𝖕𝖎𝖇𝖆𝖗𝖆-𝕯𝖏𝖊𝖉𝖎 *:･ﾟ✧*:･ﾟ✧
 
-    <div style="background:#f5e8c7; padding:15px; max-width:80%; margin:20px auto; border-radius:5px 20px; border:1px solid #d4af37; font-family:monospace; color:#5e2c04; font-style:italic; position:relative;">
+    <!-- Заголовок с фиксированным отображением -->
+    <h3>✧･ﾟ: *✧･ﾟ:* 𝕂𝖆𝖕𝖎𝖇𝖆𝖗𝖆-𝕯𝖏𝖊𝖉𝖎 *:･ﾟ✧*:･ﾟ✧</h3>
+
+    <!-- Свиток (упрощенная версия) -->
+    <div style="background:#f5e8c7; padding:15px; max-width:80%; margin:20px auto; border-radius:5px 20px; border:1px solid #d4af37; font-family:monospace; color:#5e2c04; font-style:italic;">
       ⁜ "Код — как Сила. Доверься ему."<br>
       ⁜ "Капибара-Джедай знает путь Истинного Python"
-      <!-- Простые уголки из псевдоэлементов -->
-      <span style="position:absolute; width:12px; height:12px; border:1px solid #d4af37; background:#f5e8c7; transform:rotate(45deg); top:-6px; left:20px;"></span>
-      <span style="position:absolute; width:12px; height:12px; border:1px solid #d4af37; background:#f5e8c7; transform:rotate(45deg); bottom:-6px; right:20px;"></span>
     </div>
   </div>
+
+  <!-- Остальной код остается без изменений -->
+  ...
+</div>
 
   <!-- Бейджи -->
   <div style="display:flex; flex-direction:column; gap:12px; justify-content:center; margin:25px 0;">
