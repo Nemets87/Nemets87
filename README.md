@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/📜_Свиток_Знаний-FFD700?style=for-the-badge&logo=book&logoColor=000&labelColor=5e2c04" alt="Сайт">
     </a>
     <a href="mailto:bonustime161@yandex.ru" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/🕊️_Голубиная_Почта-FF0000?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=5e2c04" alt="Почта">
+      <img src="https://img.shields.io/badge/🕊️_bonustime161@yandex.ru-FF0000?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=5e2c04" alt="Почта">
     </a>
     <a href="https://t.me/FedorovSFF" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/🔮_Магический_Кристалл-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=5e2c04" alt="Телеграм">
