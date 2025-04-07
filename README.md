@@ -49,13 +49,12 @@
     </pre>
   </div>
 
-  <!-- Капибара (изображение сохраняет пропорции) -->
+  <!-- Капибара (оптимизированное изображение) -->
   <div style="margin:40px 0; width:100%; text-align:center;">
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" 
+    <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
          alt="Капибара" 
-         style="max-width:400px; width:100%; height:auto; border-radius:15px; border:2px solid #22f7f7;">
+         style="max-width:100%; width:auto; height:auto; max-height:400px; border-radius:15px; border:2px solid #22f7f7; object-fit:contain;">
     <h3 style="margin:15px 0; color:#45ffb8;">🦸♂️ Капибара-Джедай</h3>
   </div>
-
 
 </div>
