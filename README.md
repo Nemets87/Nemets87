@@ -40,7 +40,7 @@
   </div>
 
   <!-- Навыки -->
- <div style="display:flex; flex-direction:column; gap:12px; justify-content:center; margin:25px 0;">
+  <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; width:100%; margin:30px 0;">
     <pre style="background:transparent; border:none; font-family:monospace; color:#5e2c04; margin:0; padding:0; white-space:pre-wrap; text-align:center;">
 <code>
 + 🏰 AI/ML          ▰▰▰▰▰▰▰▰▱ 85% 
