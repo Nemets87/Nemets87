@@ -37,7 +37,6 @@
     <img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
          alt="Статистика стрика" style="max-width:90%; height:auto;">
   </div>
-
   <!-- Разделитель -->
   <div style="width:80%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
