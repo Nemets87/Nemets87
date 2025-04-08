@@ -33,9 +33,6 @@
   <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; width:100%; margin:30px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10" 
          alt="GitHub статистика" style="max-width:90%; height:auto;">
-   <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; width:100%; margin:30px 0;">
-    <img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
-         alt="Статистика стрика" style="max-width:90%; height:auto;">
   </div>
   <!-- Разделитель -->
   <div style="width:80%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
