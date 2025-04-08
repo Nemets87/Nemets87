@@ -34,6 +34,7 @@
   <!-- Статистика -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 100%; margin: 30px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10" 
+user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
          alt="GitHub статистика" style="max-width: 90%; height: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
          alt="Статистика стрика" style="max-width: 90%; height: auto;">
