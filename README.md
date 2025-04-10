@@ -21,12 +21,18 @@
 [![Telegram](https://img.shields.io/badge/📡_Телеграм-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/FedorovSFF)
 
 <!-- Статистика -->
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&title_color=d4af37&icon_color=22f7f7&bg_color=1a120b" width="400"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7" width="400"></td>
-  </tr>
-</table>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width:100%; margin: 30px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10" 
+         alt="GitHub статистика" 
+         style="max-width: 100%; height:auto; display:block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
+         alt="Статистика стрика" 
+         style="max-width: 100%; height:auto; display:block;">
+  </div>
+  <!-- Разделитель -->
+  <div style="width:100%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
+    ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
+  </div>
 
 <!-- Разделитель -->
 <img src="https://raw.githubusercontent.com/andreostrovsky/dotfiles/master/images/divider.gif" width="100%">
