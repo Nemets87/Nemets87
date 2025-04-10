@@ -1,14 +1,14 @@
-<div align="center" style="max-width:100%; padding:0 15px; box-sizing:border-box; text-align:center;">
+<div align="center" style="max-width:100%; padding:0 15px; text-align:center;">
   <!-- Анимированный заголовок -->
   <h1 style="margin: 0 auto; text-align:center;">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8" 
          alt="Анимированный заголовок" 
          style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&background=000000&lines=▰▰▰▰▰▰▰▰▰▰" 
-     alt="Разделитель" 
-     style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&lines=▰▰▰▰▰▰▰▰▰▰" 
+         alt="Разделитель" 
+         style="max-width:100%; height:auto; display:block; margin:10px auto 0;">
   </h1>
-  
+</div>
   <!-- Капибара-Джедай -->
   <div style="margin:40px 0; width:100%; text-align:center;">
     <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
@@ -20,7 +20,6 @@
       ⁜ "Капибара-Джедай знает путь Истинного Python"
     </div>
   </div>
-
   <!-- Бейджи -->
   <div style="display:flex; flex-direction:column; gap:12px; justify-content:center; margin:25px 0;">
     <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
@@ -39,7 +38,6 @@
            style="max-width:100%; height:auto;">
     </a>
   </div>
-
   <!-- Статистика -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width:100%; margin: 30px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10" 
@@ -49,12 +47,10 @@
          alt="Статистика стрика" 
          style="max-width: 100%; height:auto; display:block;">
   </div>
-
   <!-- Разделитель -->
   <div style="width:100%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
   </div>
-
   <!-- Навыки -->
   <div style="background:#f5e8c7; border:1px solid #d4af37; border-radius:5px 20px; padding:15px; max-width:100%; margin:0 auto;">
     <pre style="background:transparent; border:none; font-family:monospace; color:#5e2c04; margin:0; padding:0; white-space:pre-wrap; text-align:center;">
@@ -66,7 +62,6 @@
 </code>
     </pre>
   </div>
-
   <!-- Подпись -->
   <div style="margin-top:40px; font-family:monospace; color:#45ffb8; font-size:0.9em;">
     [ Сила в коде, мудрость в капибаре ]
