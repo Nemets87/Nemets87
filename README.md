@@ -1,14 +1,21 @@
 <div align="center" style="max-width:100%; padding:0 15px; text-align:center;">
+
   <!-- Анимированный заголовок -->
-  <h1 style="margin: 0 auto; text-align:center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8" 
-         alt="Анимированный заголовок" 
-         style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&lines=▰▰▰▰▰▰▰▰▰▰" 
-         alt="Разделитель" 
-         style="max-width:100%; height:auto; display:block; margin:10px auto 0;">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&background=45FFB800&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8" alt="Анимированный заголовок">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
   </h1>
-</div>
+  <!-- Капибара-Джедай -->
+  <div style="margin:40px 0; width:100%; text-align:center;">
+    <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" 
+         alt="Капибара-Джедай" 
+         style="max-width:100%; width:auto; height:auto; max-height:400px; border-radius:15px; border:2px solid #22f7f7; object-fit:contain; box-shadow:0 5px 15px rgba(34,247,247,0.3);">
+    <h3>✧･ﾟ: *✧･ﾟ:* 𝕂𝖆𝖕𝖎𝖇𝖆𝖗𝖆-𝕯𝖏𝖊𝖉𝖎 *:･ﾟ✧*:･ﾟ✧</h3>
+    <div style="background:#f5e8c7; padding:15px; max-width:80%; margin:20px auto; border-radius:5px 20px; border:1px solid #d4af37; font-family:monospace; color:#5e2c04; font-style:italic;">
+      ⁜ "Код — как Сила. Доверься ему."<br>
+      ⁜ "Капибара-Джедай знает путь Истинного Python"
+    </div>
+  </div>
   <!-- Бейджи -->
   <div style="display:flex; flex-direction:column; gap:12px; justify-content:center; margin:25px 0;">
     <a href="https://www.bonustime.ru/" target="_blank" rel="noopener noreferrer">
