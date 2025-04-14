@@ -27,13 +27,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
          alt="Статистика стрика" 
          style="max-width: 100%; height:auto; display:block;">
+    <!-- Разделитель -->
+<img src="https://raw.githubusercontent.com/andreostrovsky/dotfiles/master/images/divider.gif" width="100%">
   </div>
   <!-- Разделитель -->
   <div style="width:100%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
   </div>
-<!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/andreostrovsky/dotfiles/master/images/divider.gif" width="100%">
+
 
 <!-- Навыки -->
 <details open>
