@@ -2,7 +2,6 @@
 
 <!-- Анимированный заголовок -->
 [![Typing Title](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
-
 <!-- Разделитель -->
 <img src="https://raw.githubusercontent.com/andreostrovsky/dotfiles/master/images/divider.gif" width="100%">
 
@@ -33,7 +32,6 @@
   <div style="width:100%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
   </div>
-
 <!-- Разделитель -->
 <img src="https://raw.githubusercontent.com/andreostrovsky/dotfiles/master/images/divider.gif" width="100%">
 
