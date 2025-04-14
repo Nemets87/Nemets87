@@ -31,7 +31,9 @@
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
   </div>
 <!-- Разделитель -->
- [![Divider](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=45FFB8&width=600&height=30&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0)](https://git.io/typing-svg)
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/AndreyFedorov87/AndreyFedorov87/main/Line.png" width="100%">
+</div>
 
 <!-- Навыки -->
 <details open>
