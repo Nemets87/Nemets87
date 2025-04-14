@@ -26,7 +26,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
          alt="Статистика стрика" 
          style="max-width: 100%; height:auto; display:block;">
-       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+       [![Divider](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=45FFB8&width=600&height=30&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0)](https://git.io/typing-svg)
   </div>
   <!-- Разделитель -->
   <div style="width:100%; margin:30px auto; text-align:center; font-size:24px; color:#d4af37;">
