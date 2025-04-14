@@ -2,15 +2,15 @@
 
 <!-- Анимированный заголовок -->
 [![Typing Title](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=30&duration=4000&pause=1000&color=22F7F7&width=600&lines=%F0%9F%94%A5+Fedorov.sFF+%F0%9F%92%BB;%F0%9F%93%9A+Smart+Developer+%F0%9F%94%94;%E2%9C%A8+Linux+%26+MacOS+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
+    [![Divider](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=45FFB8&width=600&height=30&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0)](https://git.io/typing-svg)
 
 <!-- Главное фото -->
 <img src="https://raw.githubusercontent.com/Nemets87/Nemets87/main/photo_2025-02-12_08-53-12.jpg" width="300" style="border-radius:15px;border:3px solid #22f7f7">
 
 <!-- Цитаты -->
 <pre>
-🍃 «Код — как музыка. Главное — гармония!» 
-🚀 «Капибара-Джедай знает путь к чистому коду»
+🍃 «Код_как_музыка. Главное_гармония!» 
+🚀 «Капибара_Джедай_знает_путь_к_чистому_коду»
 </pre>
 
 <!-- Бейджи -->
