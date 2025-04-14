@@ -31,7 +31,7 @@
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
   </div>
 <!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/andreostrovsky/dotfiles/master/images/divider.gif" width="100%">
+ [![Divider](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=45FFB8&width=600&height=30&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0)](https://git.io/typing-svg)
 
 <!-- Навыки -->
 <details open>
