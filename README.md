@@ -31,10 +31,7 @@
     ✧･ﾟ: *✧･ﾟ:* *:･ﾟ✧*:･ﾟ✧
   </div>
 <!-- Разделитель -->
- <div align="center">
-  <img src="https://raw.githubusercontent.com/AndreyFedorov87/AndreyFedorov87/main/Line.png" width="100%">
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=45FFB8&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Разделитель">
 <!-- Навыки -->
 <details open>
 <summary><b>🛠️ Мои инструменты</b></summary>
