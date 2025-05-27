@@ -29,11 +29,8 @@
 
 ---
 
-<!-- Количество коммитов за год -->
-[![Commits Badge](https://img.shields.io/github/commit-activity/y/Nemets87/Nemets87?label=Коммитов%20за%20год&color=22f7f7&style=for-the-badge)](https://github.com/Nemets87/Nemets87/commits/main)
-
-<!-- Альтернатива: трофеи профиля -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nemets87&theme=onestar&column=4&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Коммиты за год -->
+[![Commits Badge](https://img.shields.io/github/commit-activity/y/Nemets87?label=Коммитов%20за%20год&color=22f7f7&style=for-the-badge)](https://github.com/Nemets87)
 
 ---
 
