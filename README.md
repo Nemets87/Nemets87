@@ -118,8 +118,8 @@
 
 #### 🖥️ **Операционные Системы**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### 📊 **Анализ Данных и Наука**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -147,7 +147,7 @@
 
 ---
 
-<!-- Змейка активности -->
+<!-- Змейка активности: статичное изображение без необходимости workflow -->
 ### 🐍 **Змейка Коммитов**
 
 <div align="center">
@@ -173,9 +173,7 @@
 ### 🚀 **Легендарные Проекты**
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nemets87&repo=Nemets87&theme=dark&bg_color=1a120b&title_color=d4af37&text_color=ffffff&border_color=d4af37)](https://github.com/Nemets87/Nemets87)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nemets87&repo=Nemets87&theme=dark&bg_color=1a120b&title_color=d4af37&text_color=ffffff&border_color=d4af37)](https://github.com/Nemets87/Nemets87)
 </div>
 
 ---
@@ -195,7 +193,7 @@
 ### 📊 **Магические Метрики**
 
 <div align="center">
-  
+
 <table>
   <tr>
     <td align="center" style="padding:0,10px">
