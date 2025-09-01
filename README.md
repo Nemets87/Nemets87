@@ -25,4 +25,4 @@
 <!-- Простой счетчик коммитов -->
 [![Commits](https://img.shields.io/github/commit-activity/y/Nemets87/Nemets87?label=Коммитов%20за%20год&color=22f7f7&style=for-the-badge&v=2)](https://github.com/Nemets87/Nemets87/commits/main)
 ### 🛡️ **Навыки Капибары-Джедая**
-</div> если улучшить этот код
+</div> 
