@@ -1,167 +1,122 @@
-# 🦦 Sergey Fedorov | Web Developer & Python Enthusiast
+# 🦦 Sergey Fedorov - Code Ninja & Python Master
 
 <div align="center">
 
-<!-- Профильное изображение -->
+<!-- Адаптивное изображение без внешних сервисов -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./capy_1.jpg">
   <source media="(prefers-color-scheme: light)" srcset="./capy_1.jpg">
   <img src="./capy_1.jpg" 
-       width="260" 
-       height="260"
-       style="border-radius:20px; border:3px solid #22f7f7; box-shadow: 0 10px 40px rgba(34, 247, 247, 0.25);" 
-       alt="Capybara Jedi Master">
+       width="280" 
+       height="280"
+       style="border-radius:20px; border:3px solid #22f7f7; box-shadow: 0 8px 32px rgba(34, 247, 247, 0.3); object-fit: cover;" 
+       alt="Капибара-Джедай - Мастер Python">
 </picture>
 
-### ✨ *"Code flows, the Force is strong here"* ✨
+### ✨ *Code flows, the Force is strong here* ✨
 
-🪄 **Happy Accidents, they are** | 🚀 **Django & Python Master** | 🐍 **Clean Code Advocate**
-
-</div>
-
----
-
-## 🎯 About Me
-
-Привет! Я Full-Stack разработчик, специализирующийся на **Python** и **Django**. Люблю писать чистый, эффективный код и помогать другим разработчикам расти. В свободное время изучаю новые технологии и практики в DevOps.
-
-**Location:** 🇷🇺 Rostov-na-Donu  
-**Experience:** Web Development, API Integration, Linux Administration
+**🪄 Mistakes? No. Happy accidents, they are.**  
+*_{Ошибки — не темная сторона, а уроки Силы}_*
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Легендарные Проекты
 
-<details open>
-<summary><b>👇 Click to expand</b></summary>
-
-### 🐍 Backend Development
-- **Python 3.x** — основной язык программирования
-- **Django** — веб-фреймворк для продакшена
-- **DRF** (Django REST Framework) — REST API
-- **FastAPI** — асинхронные приложения
-- **PostgreSQL/MySQL** — реляционные базы данных
-
-### 🌐 Frontend
-- **HTML5** — семантическая разметка
-- **CSS3** — стилизация и адаптивный дизайн
-- **JavaScript (ES6+)** — интерактивность
-- **AJAX/Fetch API** — асинхронные запросы
-
-### 🛠️ Tools & DevOps
-- **Git/GitHub** — контроль версий
-- **Docker** — контейнеризация
-- **Linux** (Mint, Ubuntu) — основная ОС
-- **VS Code** — основной редактор
-
-### 📊 Additional Skills
-- **API Integration** — mexc, REST APIs
-- **xrandr** — конфигурация дисплеев Linux
-- **Virtual Environments** — venv, conda
-- **Form Validation** — Django Forms
-
-</details>
+| Проект | Описание | Технологии |
+|--------|---------|-----------|
+| **Nemets87** | GitHub портфолио | HTML, Markdown |
+| **Django API** | REST API приложения | Django, DRF |
+| **Web Projects** | Веб-приложения | Python, JS |
 
 ---
 
-## 🚀 Featured Projects
+## 🐍 Основной Стек
 
-| 🎯 Project | 📝 Description | 🔧 Tech Stack |
-|:---|:---|:---|
-| **[Nemets87](https://github.com/Nemets87/Nemets87)** | GitHub Profile & Portfolio | Markdown, HTML |
-| **Django REST API** | Scalable backend services | Django, DRF, PostgreSQL |
-| **Web Applications** | Full-stack projects | Python, JS, Bootstrap |
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
----
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📊 GitHub Statistics
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-```
-Commits: Активный разработчик с регулярными обновлениями
-Last Update: See commit history for recent work
-Repositories: Open-source projects and learning repos
-```
-
----
-
-## 🎓 Currently Learning
-
-- 🔥 Advanced Django patterns & optimization
-- 🤖 Machine Learning fundamentals
-- ☁️ AWS / Cloud infrastructure basics
-- 🎯 Performance tuning & caching strategies
-- 📈 Data visualization with Python
+### OS & Environment
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 💡 Development Philosophy
+## 🎯 Сейчас работаю над:
 
-> **"The best code is simple, readable, and maintainable"**
-
-```python
-# Clean code principle
-def solve_problem(problem):
-    """Clear, descriptive function names"""
-    return elegant_solution
-```
-
-### Key Principles:
-- ✅ DRY (Don't Repeat Yourself)
-- ✅ KISS (Keep It Simple, Stupid)
-- ✅ SOLID principles
-- ✅ Comprehensive testing
-- ✅ Documentation first
+- 🔥 Углубленное изучение Django и DRF
+- 🤖 Машинное обучение с Python
+- ☁️ DevOps и контейнеризация
+- 🚀 Оптимизация производительности приложений
 
 ---
 
-## 🎭 Fun Facts
+## 💭 Кредо Разработчика
 
-| 🔹 | Description |
-|---|---|
-| 🦥 | *"Можу кодить ночью как сова"* |
-| ☕ | *Топливо: кофе + вдохновение + Lo-fi beats* |
-| 🌙 | *Продуктивные часы: 22:00 - 02:00* |
-| 🎵 | *Кодинг под лучше всего идет с музыкой* |
-| 💚 | *Open Source поклонник* |
+> **"Код — как Сила. Познай его, и станешь Мастером."**  
+> **"В каждом байте — мудрость. В каждом цикле — гармония."**  
+> **"Лучший код — это код, который легко понять."**
 
 ---
 
-## 📫 Get In Touch
+## 📊 Статистика
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>📈 Активность</strong><br><br>
+      <img alt="Commits" src="https://img.shields.io/github/commit-activity/m/Nemets87/Nemets87?style=flat&color=22f7f7" />
+    </td>
+    <td align="center" width="50%">
+      <strong>⭐ Репозитории</strong><br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Nemets87?style=flat&color=FFD700" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>👥 Подписчики</strong><br><br>
+      <img alt="Followers" src="https://img.shields.io/github/followers/Nemets87?style=flat&color=22f7f7" />
+    </td>
+    <td align="center">
+      <strong>📅 Коммиты</strong><br><br>
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/Nemets87/Nemets87?style=flat&color=d4af37" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Свяжитесь со мной
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:bonustime161@yandex.ru)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/FedorovSFF)
-[![Website](https://img.shields.io/badge/🌐_Website-FFD700?style=flat&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nemets87)
-
-**Email:** bonustime161@yandex.ru  
-**Telegram:** @FedorovSFF  
-**Website:** bonustime.ru
+[![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:bonustime161@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/FedorovSFF)
+[![Website](https://img.shields.io/badge/Website-FFD700?style=flat&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nemets87)
 
 </div>
 
 ---
 
-## 📈 Activity Overview
+## 🎭 Интересные Факты
 
-<div align="center">
-
-**Last Commit:** Regular updates  
-**Most Active:** Python, Django, JavaScript  
-**Collaboration:** Always open for discussions
-
-</div>
-
----
-
-## 🏆 Goals & Milestones
-
-- [ ] 🎯 Contribute to major open-source projects
-- [ ] 📚 Create comprehensive Django tutorial series
-- [ ] 🚀 Build scalable SaaS application
-- [ ] 🔐 Master DevOps & CI/CD pipelines
-- [ ] 🤝 Become a mentor for junior developers
+🦥 **Могу кодить ночью как сова**  
+☕ **Топливо: кофе + вдохновение**  
+🎵 **Кодю под Lo-fi beats**  
+⚡ **Продуктивные часы: 22:00 - 02:00**  
 
 ---
 
@@ -169,13 +124,7 @@ def solve_problem(problem):
 
 ### ⚡ *"Пусть код будет с тобой!"* ⚡
 
-<img src="https://img.shields.io/badge/Made_with-❤️_and_Python-green?style=flat" alt="Made with love and Python" />
-
-**Last Updated:** 2025  
-**Status:** 🟢 Active Development
-
----
-
-<sub>*Always learning, always coding* 🚀</sub>
+<sub>✨ *Сделано с* 💚 *и магией Python*</sub>  
+<sub>🚀 *GitHub: [Nemets87](https://github.com/Nemets87)*</sub>
 
 </div>
