@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- Профильное изображение -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./capy_1.jpg">
   <source media="(prefers-color-scheme: light)" srcset="./capy_1.jpg">
@@ -32,7 +31,7 @@
 
 Меня зовут **Sergey Fedorov**, я начинающий разработчик и, как настоящая капибара, дружу со всеми технологиями. 🐾
 
-Работаю на **Windows 11**, **Linux Mint** и **macOS**. Основной фокус — **Python**, **Django**, API-интеграции и автоматизация. Активно использую AI-помощников в разработке: **Perplexity AI**, **DeepSeek** и **Qwen**.
+Работаю на **Windows 11**, **Linux Mint** и **macOS**. Основной фокус — **Python**, **Django**, API-интеграции, автоматизация и парсинг. Активно использую AI-помощников в разработке: **Perplexity AI**, **DeepSeek** и **Qwen**.
 
 - 📍 **Location:** 🇷🇺 Rostov-na-Donu  
 - 🧠 **Focus:** Python, Django, REST API, automation, AI-assisted development  
@@ -132,7 +131,7 @@
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack |
 |:---|:---|:---|
-| **[capy_project_xpath_selenium](https://github.com/Nemets87/capy_project_xpath_selenium)** | Автоматизация и парсинг с использованием Selenium и XPath | Python, Selenium, XPath |
+| **[capy_project_xpath_selenium](https://github.com/Nemets87/capy_project_xpath_selenium)** | Автоматизация и парсинг с Selenium и XPath | Python, Selenium, XPath |
 | **[Star_Wars_Api_Alex_Smith](https://github.com/Nemets87/Star_Wars_Api_Alex_Smith)** | Работа с внешним Star Wars API | Python, API, JSON |
 | **[Exchanger_By_Parser_Yandex](https://github.com/Nemets87/Exchanger_By_Parser_Yandex)** | Парсер обменных курсов с Яндекс-ресурсов | Python, Parsing, Requests |
 | **[Nemets87](https://github.com/Nemets87/Nemets87)** | GitHub-профиль и портфолио | Markdown, HTML |
@@ -180,17 +179,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=d4af37&text_color=ffffff&border_color=d4af37&border_radius=10&langs_count=8" 
      alt="Top languages" 
      style="max-width:100%;">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nemets87&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" 
-     alt="GitHub trophies">
 
 </div>
 
