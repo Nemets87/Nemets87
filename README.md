@@ -2,16 +2,14 @@
 
 <div align="center">
 
-<!-- Наша красивая рамка, сделанная через поддерживаемый GitHub HTML -->
 <img src="./capy_1.jpg"
      width="260"
      height="260"
      style="border-radius: 20px; border: 4px solid #22f7f7; box-shadow: 0 0 25px rgba(34, 247, 247, 0.6); object-fit: cover;"
      alt="Capybara Jedi Master">
 
-<br><br>
+<br>
 
-<!-- Анимированный текст (работает 100% стабильно) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22F7F7&center=true&vCenter=true&width=600&lines=%22Code+flows%2C+the+Force+is+strong+here%22;%F0%9F%A6%A6+Jedi_Capybara+Developer;%F0%9F%9A%80+Cross-Platform+Master;%F0%9F%A4%96+AI-Assisted+Developer" alt="Typing SVG" />
 </a>
@@ -64,7 +62,7 @@
 
 ## 💻 Tech Stack
 
-### 🐍 Backend Development
+### 🐍 Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -181,19 +179,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=d4af37&text_color=ffffff&border_color=d4af37&border_radius=10&langs_count=8" 
      alt="Top languages" 
      style="max-width:100%;">
-
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Email:** [bonustime161@yandex.ru](mailto:bonustime161@yandex.ru)  
-**Telegram:** [@FedorovSFF](https://t.me/FedorovSFF)  
-**Website:** [bonustime.ru](https://www.bonustime.ru/)  
-**GitHub:** [Nemets87](https://github.com/Nemets87)
 
 </div>
 
