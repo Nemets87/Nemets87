@@ -32,8 +32,8 @@
 
   <!-- Капибара -->
   <image x="16" y="16" width="228" height="228"
-       clip-path="url(#rounded)"
-       preserveAspectRatio="xMidYMid slice"
-       href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..."
-       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..."/>
+         clip-path="url(#rounded)"
+         preserveAspectRatio="xMidYMid slice"
+         href="data:image/jpeg;base64,PASTE_BASE64_HERE"
+         xlink:href="data:image/jpeg;base64,PASTE_BASE64_HERE"/>
 </svg>
