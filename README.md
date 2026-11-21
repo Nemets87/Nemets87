@@ -29,13 +29,13 @@
 
 🔥 **Привет!** 🔥
 
-Меня зовут **Sergey Fedorov**, я начинающий разработчик и, как настоящая капибара, дружу со всеми технологиями. 🐾
+Меня зовут **Сергей**, я начинающий разработчик и, как настоящая капибара, дружу со всеми технологиями. 🐾
 
 Работаю на **Windows 11**, **Linux Mint** и **macOS**. Основной фокус — **Python**, **Django**, API-интеграции, автоматизация и парсинг. Активно использую AI-помощников в разработке: **Perplexity AI**, **DeepSeek** и **Qwen**.
 
-- 📍 **Location:** 🇷🇺 Rostov-na-Donu  
-- 🧠 **Focus:** Python, Django, REST API, automation, AI-assisted development  
-- 💡 **Philosophy:** *«Как капибара дружит со всеми, так и я дружу со всеми технологиями»* 💚  
+- 📍 **Локация:** 🇷🇺 Ростов-на-Дону  
+- 🧠 **Фокус:** Python, Django, REST API, автоматизация, AI-assisted development  
+- 💡 **Философия:** *«Как капибара дружит со всеми, так и я дружу со всеми технологиями»* 💚  
 
 > 🪄 **Mistakes? No. Happy accidents, they are.**  
 > Ошибки — не тёмная сторона, а уроки Силы.
@@ -44,40 +44,35 @@
 
 ## 🛡️ Jedi_Capybara Code
 
-**Осознаёт:**
-
-- Всегда помогать — это не только долг, но и путь к лучшему миру.
-- Учиться каждый день, ведь знания открывают новые горизонты.
-- Делиться знаниями — значит умножать их.
-- Никогда не сдаваться: каждая ошибка — шаг к решению.
-
-**Помнит:**
-
-- Красота скрыта в сложных алгоритмах.
-- Изящество можно найти в простых решениях.
-- Настоящая сила — в умении объяснять.
-- Падение — это не конец, а начало нового взлёта.
+> **Осознаёт:**
+> - Всегда помогать — это не только долг, но и путь к лучшему миру.
+> - Учиться каждый день, ведь знания открывают новые горизонты.
+> - Делиться знаниями — значит умножать их.
+> - Никогда не сдаваться: каждая ошибка — шаг к решению.
+>
+> **Помнит:**
+> - Красота скрыта в сложных алгоритмах.
+> - Изящество можно найти в простых решениях.
+> - Настоящая сила — в умении объяснять.
+> - Падение — это не конец, а начало нового взлёта.
 
 ---
 
 ## 💻 Tech Stack
 
-### 🐍 Backend
-
+**🐍 Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🌐 Frontend
-
+**🌐 Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Databases & Tools
-
+**🗄️ Databases & Tools:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -86,14 +81,12 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![XPath](https://img.shields.io/badge/XPath-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
-### 🖥️ Operating Systems
-
+**🖥️ Operating Systems:**
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### 🤖 AI Assistants
-
+**🤖 AI Assistants:**
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-FF6B6B?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-6C5CE7?style=for-the-badge&logo=alibabacloud&logoColor=white)
@@ -104,24 +97,11 @@
 
 <details open>
 <summary><b>Показать рабочие окружения</b></summary>
+<br>
 
-### **Windows 11 — основная система**
-- Visual Studio Code  
-- Git Bash / Windows Terminal  
-- Docker Desktop  
-- Основная среда для разработки и тестирования  
-
-### **Linux Mint — эксперименты и DevOps**
-- Нативный терминал и Bash-скрипты  
-- Docker-контейнеры  
-- Работа с системой и автоматизация  
-- xrandr для настройки дисплеев  
-
-### **macOS — тестирование и мобильная разработка**
-- Нативные инструменты разработки  
-- Тестирование адаптивного дизайна  
-- Интеграция с экосистемой Apple  
-- Контроль качества кода  
+- **Windows 11 — основная система:** Visual Studio Code, Git Bash / Windows Terminal, Docker Desktop. Основная среда для разработки и тестирования.
+- **Linux Mint — эксперименты и DevOps:** Нативный терминал и Bash-скрипты, Docker-контейнеры, автоматизация, настройка дисплеев через xrandr.
+- **macOS — тестирование и мобильная разработка:** Нативные инструменты, тестирование адаптивного дизайна, интеграция с экосистемой Apple, контроль качества кода.
 
 </details>
 
@@ -140,20 +120,18 @@
 
 ## 📊 Currently Learning
 
-- 🔥 Advanced Django patterns & optimization  
-- 🤖 AI-assisted programming: **Perplexity AI, DeepSeek, Qwen**  
-- ☁️ AWS / Cloud infrastructure basics  
-- 🎯 Performance tuning & caching strategies  
-- 📈 Data visualization with Python  
-- 🕷️ Web scraping, Selenium automation и XPath  
+- 🔥 **Advanced Django:** паттерны и оптимизация  
+- 🤖 **AI-assisted programming:** Perplexity AI, DeepSeek, Qwen  
+- ☁️ **Cloud basics:** AWS / инфраструктура  
+- 🎯 **Performance tuning:** кэширование и оптимизация  
+- 📈 **Data visualization:** визуализация данных на Python  
+- 🕷️ **Web scraping:** Selenium automation и XPath  
 
 ---
 
 ## 💭 Development Philosophy
 
 > **"The best code is simple, readable, and maintainable."**
-
-### My Way of Working
 
 - ✅ **Кроссплатформенность** — код работает на Windows, Linux и macOS  
 - ✅ **DRY** — Don't Repeat Yourself  
@@ -170,14 +148,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10&include_all_commits=true&count_private=true" 
      alt="GitHub statistics" 
+     loading="lazy"
      style="max-width:100%;">
 
 <img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
      alt="GitHub streak statistics" 
+     loading="lazy"
      style="max-width:100%;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=d4af37&text_color=ffffff&border_color=d4af37&border_radius=10&langs_count=8" 
      alt="Top languages" 
+     loading="lazy"
      style="max-width:100%;">
 
 </div>
@@ -197,10 +178,14 @@
 
 <div align="center">
 
+**📫 Связаться со мной:**  
+[bonustime161@yandex.ru](mailto:bonustime161@yandex.ru) • [@FedorovSFF](https://t.me/FedorovSFF) • [bonustime.ru](https://www.bonustime.ru/)
+
+<br>
+
 ### ⚡ *"Пусть код будет с тобой!"* ⚡
 
-**Как капибара:**  
-Windows 11 • Linux Mint • macOS • Perplexity AI • DeepSeek • Qwen • Open Source 💚
+**Как капибара:** Windows 11 • Linux Mint • macOS • Perplexity AI • DeepSeek • Qwen • Open Source 💚
 
 <sub>*Made with ❤️ and Python, from Capybara Jedi to the world* 🦦✨</sub>
 
