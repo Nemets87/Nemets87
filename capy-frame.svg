@@ -32,8 +32,8 @@
 
   <!-- Капибара -->
   <image x="16" y="16" width="228" height="228"
-         clip-path="url(#rounded)"
-         preserveAspectRatio="xMidYMid slice"
-         href="https://raw.githubusercontent.com/Nemets87/Nemets87/main/capy_1.jpg"
-         xlink:href="https://raw.githubusercontent.com/Nemets87/Nemets87/main/capy_1.jpg"/>
+       clip-path="url(#rounded)"
+       preserveAspectRatio="xMidYMid slice"
+       href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..."
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..."/>
 </svg>
