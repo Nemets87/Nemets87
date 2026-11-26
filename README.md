@@ -16,7 +16,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Website-FFB347?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
+[![Website](https://img.shields.io/badge/🌐_bonustime.ru-FFB347?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
 [![Email](https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonustime161@yandex.ru)
 [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FedorovSFF)
 [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nemets87)
@@ -37,8 +37,8 @@
 - 🧠 **Фокус:** Python, Django, REST API, автоматизация, AI-assisted development  
 - 💡 **Философия:** *«Как капибара дружит со всеми, так и я дружу со всеми технологиями»* 💚  
 
-> 🪄 **Mistakes? No. Happy accidents, they are.**  
-> Ошибки — не тёмная сторона, а уроки Силы.
+> 🪄 *Mistakes? No. Happy accidents, they are.*  
+> *Ошибки — не тёмная сторона, а уроки Силы.*
 
 ---
 
@@ -131,7 +131,7 @@
 
 ## 💭 Development Philosophy
 
-> **"The best code is simple, readable, and maintainable."**
+> *"The best code is simple, readable, and maintainable."*
 
 - ✅ **Кроссплатформенность** — код работает на Windows, Linux и macOS  
 - ✅ **DRY** — Don't Repeat Yourself  
