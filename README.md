@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 About Me — «Кто я такая капибара?»
+## 🎯 About Me — «Кто такой Рыцарь_Джедая_Капибар?»
 
 🔥 **Привет!** 🔥
 
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=FFB347&icon_color=22F7F7&text_color=ffffff&border_color=FFB347&border_radius=10&include_all_commits=true&count_private=true" 
+<img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" 
      alt="GitHub statistics" 
      loading="lazy"
      style="max-width:100%;">
