@@ -5,27 +5,27 @@
 <img src="./capy_1.jpg"
      width="260"
      height="260"
-     style="border-radius: 20px; border: 4px solid #FFD700; box-shadow: 0 0 25px rgba(255, 215, 0, 0.5); object-fit: cover;"
+     style="border-radius: 20px; border: 4px solid #FFB347; box-shadow: 0 0 25px rgba(255, 179, 71, 0.5); object-fit: cover;"
      alt="Capybara Jedi Master">
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=%22Code+flows%2C+the+Force+is+strong+here%22;%F0%9F%A6%A6+Jedi_Capybara+Developer;%F0%9F%9A%80+Cross-Platform+Master;%F0%9F%A4%96+AI-Assisted+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFB347&center=true&vCenter=true&width=600&lines=%22Code+flows%2C+the+Force+is+strong+here%22;%F0%9F%A6%A6+Jedi_Capybara+Developer;%F0%9F%9A%80+Cross-Platform+Master;%F0%9F%A4%96+AI-Assisted+Developer" alt="Typing SVG" />
 </a>
 
 <br>
 
-[![Website](https://img.shields.io/badge/🛒_bonustime.ru-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
-[![Email](https://img.shields.io/badge/📧_Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:bonustime161@yandex.ru)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFD700)](https://t.me/FedorovSFF)
-[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Nemets87)
+[![Website](https://img.shields.io/badge/🌐_bonustime.ru-FFB347?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
+[![Email](https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonustime161@yandex.ru)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FedorovSFF)
+[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nemets87)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me — «Кто я такая капибара?»
 
 🔥 **Привет!** 🔥
 
@@ -42,72 +42,72 @@
 
 ---
 
-## 🛡️ Jedi_Capybara Code
+## 🛡️ Jedi_Capybara Code — «Капибарья академия»
 
 > **Осознаёт:**
-> - Всегда помогать — это не только долг, но и путь к лучшему миру.
-> - Учиться каждый день, ведь знания открывают новые горизонты.
-> - Делиться знаниями — значит умножать их.
-> - Никогда не сдаваться: каждая ошибка — шаг к решению.
+> - 🌱 Всегда помогать — это не только долг, но и путь к лучшему миру.
+> - 📚 Учиться каждый день, ведь знания открывают новые горизонты.
+> - 🎁 Делиться знаниями — значит умножать их.
+> - 💪 Никогда не сдаваться: каждая ошибка — шаг к решению.
 >
 > **Помнит:**
-> - Красота скрыта в сложных алгоритмах.
-> - Изящество можно найти в простых решениях.
-> - Настоящая сила — в умении объяснять.
-> - Падение — это не конец, а начало нового взлёта.
+> - 🌸 Красота скрыта в сложных алгоритмах.
+> - 🍃 Изящество можно найти в простых решениях.
+> - 🗣️ Настоящая сила — в умении объяснять.
+> - 🌅 Падение — это не конец, а начало нового взлёта.
 
 ---
 
-## 💻 Tech Stack — «Ценники навыков»
+## 💻 Tech Stack — «Капибарий арсенал»
 
-**🐍 Backend:**
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![Django](https://img.shields.io/badge/Django-FFD700?style=for-the-badge&logo=django&logoColor=black)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-FFD700?style=for-the-badge&logo=django&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=black)
+**🐍 Backend — «Плаваем в Python»:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**🌐 Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FFD700?style=for-the-badge&logo=bootstrap&logoColor=black)
+**🌐 Frontend — «Рисуем интерфейсы»:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**🗄️ Databases & Tools:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-FFD700?style=for-the-badge&logo=selenium&logoColor=black)
-![XPath](https://img.shields.io/badge/XPath-FFD700?style=for-the-badge&logo=xml&logoColor=black)
+**🗄️ Databases & Tools — «Храним сокровища»:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![XPath](https://img.shields.io/badge/XPath-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
-**🖥️ Operating Systems:**
-![Windows 11](https://img.shields.io/badge/Windows_11-FFD700?style=for-the-badge&logo=windows&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-FFD700?style=for-the-badge&logo=linuxmint&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-FFD700?style=for-the-badge&logo=apple&logoColor=black)
+**🖥️ Operating Systems — «Три берега капибары»:**
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**🤖 AI Assistants:**
-![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-FFD700?style=for-the-badge&logo=perplexity&logoColor=black)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-FFD700?style=for-the-badge&logo=deepseek&logoColor=black)
-![Qwen](https://img.shields.io/badge/Qwen-FFD700?style=for-the-badge&logo=alibabacloud&logoColor=black)
+**🤖 AI Assistants — «Мои умные друзья»:**
+![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-000000?style=for-the-badge&logo=perplexity&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-FF6B6B?style=for-the-badge&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6C5CE7?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ---
 
-## 🖥️ My Ecosystems
+## 🖥️ My Ecosystems — «Три берега, одна река»
 
 <details open>
 <summary><b>Показать рабочие окружения</b></summary>
 <br>
 
-- **Windows 11 — основная система:** Visual Studio Code, Git Bash / Windows Terminal, Docker Desktop. Основная среда для разработки и тестирования.
-- **Linux Mint — эксперименты и DevOps:** Нативный терминал и Bash-скрипты, Docker-контейнеры, автоматизация, настройка дисплеев через xrandr.
-- **macOS — тестирование и мобильная разработка:** Нативные инструменты, тестирование адаптивного дизайна, интеграция с экосистемой Apple, контроль качества кода.
+- **Windows 11 — основной берег:** Visual Studio Code, Git Bash / Windows Terminal, Docker Desktop. Основная среда для разработки и тестирования.
+- **Linux Mint — берег экспериментов:** Нативный терминал и Bash-скрипты, Docker-контейнеры, автоматизация, настройка дисплеев через xrandr.
+- **macOS — берег тестирования:** Нативные инструменты, тестирование адаптивного дизайна, интеграция с экосистемой Apple, контроль качества кода.
 
 </details>
 
 ---
 
-## 🚀 Featured Projects — «Товары на витрине»
+## 🚀 Featured Projects — «Капибарьи сокровища»
 
 | 🎯 Project | 📝 Description | 🔧 Tech Stack |
 |:---|:---|:---|
@@ -118,7 +118,7 @@
 
 ---
 
-## 📊 Currently Learning
+## 📊 Currently Learning — «Что жуём сейчас»
 
 - 🔥 **Advanced Django:** паттерны и оптимизация  
 - 🤖 **AI-assisted programming:** Perplexity AI, DeepSeek, Qwen  
@@ -129,7 +129,7 @@
 
 ---
 
-## 💭 Development Philosophy
+## 💭 Development Philosophy — «Мудрость капибары»
 
 > *"The best code is simple, readable, and maintainable."*
 
@@ -142,21 +142,21 @@
 
 ---
 
-## 📈 GitHub Activity — «Отчёт о продажах»
+## 📈 GitHub Activity — «Следы на песке»
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=FFD700&icon_color=22F7F7&text_color=ffffff&border_color=FFD700&border_radius=10&include_all_commits=true&count_private=true" 
+<img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=FFB347&icon_color=22F7F7&text_color=ffffff&border_color=FFB347&border_radius=10&include_all_commits=true&count_private=true" 
      alt="GitHub statistics" 
      loading="lazy"
      style="max-width:100%;">
 
-<img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=FFD700&fire=22F7F7&currStreakLabel=FFD700&border=FFD700&border_radius=10" 
+<img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=FFB347&fire=22F7F7&currStreakLabel=FFB347&border=FFB347&border_radius=10" 
      alt="GitHub streak statistics" 
      loading="lazy"
      style="max-width:100%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=FFD700&text_color=ffffff&border_color=FFD700&border_radius=10&langs_count=8" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=FFB347&text_color=ffffff&border_color=FFB347&border_radius=10&langs_count=8" 
      alt="Top languages" 
      loading="lazy"
      style="max-width:100%;">
@@ -165,7 +165,7 @@
 
 ---
 
-## 🏆 Goals & Milestones — «План продаж»
+## 🏆 Goals & Milestones — «Куда плывём»
 
 - [ ] 🎯 Master cross-platform development  
 - [ ] 🤖 Become expert in AI-assisted programming  
