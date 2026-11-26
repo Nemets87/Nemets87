@@ -5,19 +5,19 @@
 <img src="./capy_1.jpg"
      width="260"
      height="260"
-     style="border-radius: 20px; border: 4px solid #22f7f7; box-shadow: 0 0 25px rgba(34, 247, 247, 0.6); object-fit: cover;"
+     style="border-radius: 20px; border: 4px solid #FFB347; box-shadow: 0 0 25px rgba(255, 179, 71, 0.5); object-fit: cover;"
      alt="Capybara Jedi Master">
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22F7F7&center=true&vCenter=true&width=600&lines=%22Code+flows%2C+the+Force+is+strong+here%22;%F0%9F%A6%A6+Jedi_Capybara+Developer;%F0%9F%9A%80+Cross-Platform+Master;%F0%9F%A4%96+AI-Assisted+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFB347&center=true&vCenter=true&width=600&lines=%22Code+flows%2C+the+Force+is+strong+here%22;%F0%9F%A6%A6+Jedi_Capybara+Developer;%F0%9F%9A%80+Cross-Platform+Master;%F0%9F%A4%96+AI-Assisted+Developer" alt="Typing SVG" />
 </a>
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
-[![Email](https://img.shields.io/badge/📧_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonustime161@yandex.ru)
+[![Website](https://img.shields.io/badge/🌐_Website-FFB347?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.bonustime.ru/)
+[![Email](https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonustime161@yandex.ru)
 [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FedorovSFF)
 [![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nemets87)
 
@@ -146,17 +146,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=d4af37&icon_color=22f7f7&text_color=ffffff&border_color=d4af37&border_radius=10&include_all_commits=true&count_private=true" 
+<img src="https://github-readme-stats.vercel.app/api?username=Nemets87&show_icons=true&theme=dark&bg_color=1a120b&title_color=FFB347&icon_color=22F7F7&text_color=ffffff&border_color=FFB347&border_radius=10&include_all_commits=true&count_private=true" 
      alt="GitHub statistics" 
      loading="lazy"
      style="max-width:100%;">
 
-<img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=d4af37&fire=22f7f7&currStreakLabel=d4af37&border=d4af37&border_radius=10" 
+<img src="https://streak-stats.demolab.com/?user=Nemets87&theme=dark&background=1a120b&ring=FFB347&fire=22F7F7&currStreakLabel=FFB347&border=FFB347&border_radius=10" 
      alt="GitHub streak statistics" 
      loading="lazy"
      style="max-width:100%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=d4af37&text_color=ffffff&border_color=d4af37&border_radius=10&langs_count=8" 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemets87&layout=compact&theme=dark&bg_color=1a120b&title_color=FFB347&text_color=ffffff&border_color=FFB347&border_radius=10&langs_count=8" 
      alt="Top languages" 
      loading="lazy"
      style="max-width:100%;">
